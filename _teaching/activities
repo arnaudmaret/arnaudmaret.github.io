@@ -6,6 +6,8 @@ excerpt: "Activities"
 author_profile: true
 ---
 
+{% include base_path %}
+
 WiSe 2020
 ======
 
