@@ -6,8 +6,6 @@ excerpt: "Activities"
 author_profile: true
 ---
 
-{% include base_path %}
-
 WiSe 2020
 ======
 
@@ -16,7 +14,7 @@ WiSe 2020
 *[Blockseminar](https://www.groups-and-spaces.kit.edu/245.php): Topological K-Theory
 *[Workshop](https://www.mathi.uni-heidelberg.de/~mpfeil/positivity.html) on Positivity in Lie Groups (March 2021)
 
-## SoSe 2020 (surviving quarantine)
+SoSe 2020 (surviving quarantine)
   
   - Seminar: Geometric Hydrodynamics meets Dynamical Data Analysis (see Moodle page)
   - Symplectic topics seminar - h-principles
