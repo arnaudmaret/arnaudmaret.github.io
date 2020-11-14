@@ -8,10 +8,10 @@ author_profile: true
 
 ## WiSe 2020
 
- -Seminar: Higgs bundles
- -Symplectic topics seminar - Sub-Riemannian geometry 
- -[Blockseminar](https://www.groups-and-spaces.kit.edu/245.php): Topological K-Theory
- -[Workshop](https://www.mathi.uni-heidelberg.de/~mpfeil/positivity.html) on Positivity in Lie Groups (March 2021)
+  - Seminar: Higgs bundles
+  - Symplectic topics seminar - Sub-Riemannian geometry 
+  - [Blockseminar](https://www.groups-and-spaces.kit.edu/245.php): Topological K-Theory
+  - [Workshop](https://www.mathi.uni-heidelberg.de/~mpfeil/positivity.html) on Positivity in Lie Groups (March 2021)
 
 ## SoSe 2020 (surviving quarantine)
   
