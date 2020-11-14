@@ -4,6 +4,8 @@ permalink: /activities/
 title: "Activities"
 excerpt: "Activities"
 author_profile: true
+redirect_from: 
+  - /teaching
 ---
 
 Here is a list of relevant seminars, schools and workshops I attended or (co)organized.
