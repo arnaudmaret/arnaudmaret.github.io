@@ -17,4 +17,4 @@ In connection to my PhD, I am a member of the research programs [GRK 2229 _Asymp
 
 ## Full CV
 
-You can downlaod my full CV [here](files/CV.pdf).
+You can downlaod my full CV [here](http://arnaudmaret.github.io/files/CV.pdf).
