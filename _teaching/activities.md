@@ -6,15 +6,14 @@ excerpt: "Activities"
 author_profile: true
 ---
 
-WiSe 2020
-======
+## WiSe 2020
 
-*Seminar: Higgs bundles
-*Symplectic topics seminar - Sub-Riemannian geometry 
-*[Blockseminar](https://www.groups-and-spaces.kit.edu/245.php): Topological K-Theory
-*[Workshop](https://www.mathi.uni-heidelberg.de/~mpfeil/positivity.html) on Positivity in Lie Groups (March 2021)
+ -Seminar: Higgs bundles
+ -Symplectic topics seminar - Sub-Riemannian geometry 
+ -[Blockseminar](https://www.groups-and-spaces.kit.edu/245.php): Topological K-Theory
+ -[Workshop](https://www.mathi.uni-heidelberg.de/~mpfeil/positivity.html) on Positivity in Lie Groups (March 2021)
 
-SoSe 2020 (surviving quarantine)
+## SoSe 2020 (surviving quarantine)
   
   - Seminar: Geometric Hydrodynamics meets Dynamical Data Analysis (see Moodle page)
   - Symplectic topics seminar - h-principles
@@ -28,13 +27,13 @@ SoSe 2020 (surviving quarantine)
   - [Blockseminar](http://www.groups-and-spaces.kit.edu/downloads/RTG_seminar_06_list_of_talks_differential_forms.pdf): Differential forms
   - [Winter school](https://sites.google.com/view/ifthm-gnd/startseite) on Implicit Function Theorems (JLU Giessen)
 
-SoSe 2019
+## SoSe 2019
   - [Workshop](https://www.msri.org/workshops/895) on Holomorphic Differentials in Mathematics and Physics (MSRI)
   - [Graduate school](http://scgp.stonybrook.edu/archives/27840) on Geometry of Teichmüller spaces (Simons Center)
   - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarSoSe19.html): Dynamics of Teichmüller spaces 
   - Symplectic topics seminar - Holomorphic curves in dimension 4
   
-WiSe 2018/19
+## WiSe 2018/19
   - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarWS1819.html): The symplectic structure of representation varieties
   - [Blockseminar](http://www.groups-and-spaces.kit.edu/downloads/RTG_seminar_05_schedule_rational_homotopy_theory.pdf): Rational homotopy theory
   - Symplectic topics seminar - Floer homology
