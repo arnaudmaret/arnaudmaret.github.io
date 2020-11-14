@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _olympiad
   - scope:
       path: ""
-      type: portfolio
+      type: olympiad
     values:
       layout: single
       author_profile: true
