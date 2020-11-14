@@ -10,7 +10,7 @@ Here is a list of relevant seminars, schools and workshops I attended or (co)org
 
 ## WiSe 2020
 
-  - Seminar: Higgs bundles
+  - [Working seminar](https://www.mathi.uni-heidelberg.de/~pozzetti/stability.html): Bridgeland's stability conditions for meromorphic differentials
   - Symplectic topics seminar - Sub-Riemannian geometry 
   - [Blockseminar](https://www.groups-and-spaces.kit.edu/245.php): Topological K-Theory
   - [Workshop](https://www.mathi.uni-heidelberg.de/~mpfeil/positivity.html) on Positivity in Lie Groups (March 2021)
