@@ -6,6 +6,8 @@ excerpt: "Activities"
 author_profile: true
 ---
 
+Here is a list of relevant seminars, schools and workshops I attended or (co)organized.
+
 ## WiSe 2020
 
   - Seminar: Higgs bundles
