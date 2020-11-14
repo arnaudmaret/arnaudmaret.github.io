@@ -15,7 +15,7 @@ author_profile: true
 
 ## SoSe 2020 (surviving quarantine)
   
-  - Seminar: Geometric Hydrodynamics meets Dynamical Data Analysis (see Moodle page)
+  - Seminar: Geometric Hydrodynamics meets Dynamical Data Analysis
   - Symplectic topics seminar - h-principles
   - [Blockseminar](https://www.groups-and-spaces.kit.edu/245.php): Topological K-Theory (postponed to October 2020)
   - [Workshop](https://www.mathi.uni-heidelberg.de/~mpfeil/positivity.html) on Positivity in Lie Groups (postponed to March 2021)
