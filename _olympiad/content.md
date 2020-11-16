@@ -7,7 +7,7 @@ redirect_from:
   - /matholympiad
 ---
 
-If you wonder what [Math Olympiad](https://www.imo-official.org/?language=en) are, read the following article [(fr)](doc/VSMP-Bulletin.pdf) [(de)](doc/VSMP-Bulletin_de_neu.pdf) published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique. If you wonder how Olympiad mathematics differ from traditional school mathematics, have a look at this [(fr)](https://science.olympiad.ch/fr/actuel/detail/news/news/couvrez-cette-calculatrice-que-je-ne-saurais-voir-le-retour-du-raisonnement-a-lecole/) [(de)](https://science.olympiad.ch/de/aktuell/detail/news/news/tischlein-deck-dich-ein-mathematisches-festessen/). 
+If you wonder what [Math Olympiad](https://www.imo-official.org/?language=en) are, read the following article [(fr)](http://arnaudmaret.github.io/files/VSMP-Bulletin.pdf) [(de)](http://arnaudmaret.github.io/files/VSMP-Bulletin_de_neu.pdf) published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique. If you wonder how Olympiad mathematics differ from traditional school mathematics, have a look at this [(fr)](https://science.olympiad.ch/fr/actuel/detail/news/news/couvrez-cette-calculatrice-que-je-ne-saurais-voir-le-retour-du-raisonnement-a-lecole/) [(de)](https://science.olympiad.ch/de/aktuell/detail/news/news/tischlein-deck-dich-ein-mathematisches-festessen/). 
 
 ## Olympiad CV
 
@@ -29,7 +29,7 @@ I have contributed to various teaching material. These are available (as for now
 1. Introduction to functional equations: [(fr)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen1/fr-funktionalgleichungen1.pdf) [(de)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen1/de-funktionalgleichungen1.pdf)
 2. Functional equations 2 - Cauchy equations: [(fr)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen2/fr-funktionalgleichungen2.pdf) [(de)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen2/de-funktionalgleichungen2.pdf)
 3. Introduction to inequalities: [(fr)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/ungleichungen1/fr-ungleichungen1.pdf) [(de)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/ungleichungen1/de-ungleichungen1.pdf)
-4. Introduction to sequences: [(fr)](doc/fr_suites.pdf)
+4. Introduction to sequences: [(fr)](http://arnaudmaret.github.io/files/fr_suites.pdf)
 
 ## Others
 
