@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Olympiad"
+title: "Math Olympiad"
 permalink: /olympiad/
 author_profile: true
 redirect_from:
   - /matholympiad
 ---
 
-If you wonder what [math Olympiad](https://www.imo-official.org/?language=en) are about, read the following article [(fr)](doc/VSMP-Bulletin.pdf) [(de)](doc/VSMP-Bulletin_de_neu.pdf) published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique. If you wonder how Olympiad mathematics differ from traditional school mathematics, have a look at this [(fr)](https://science.olympiad.ch/fr/actuel/detail/news/news/couvrez-cette-calculatrice-que-je-ne-saurais-voir-le-retour-du-raisonnement-a-lecole/) [(de)](https://science.olympiad.ch/de/aktuell/detail/news/news/tischlein-deck-dich-ein-mathematisches-festessen/). 
+If you wonder what [Math Olympiad](https://www.imo-official.org/?language=en) are, read the following article [(fr)](doc/VSMP-Bulletin.pdf) [(de)](doc/VSMP-Bulletin_de_neu.pdf) published in the Bulletin de la Société Suisse des Professeurs de Mathématiques et Physique. If you wonder how Olympiad mathematics differ from traditional school mathematics, have a look at this [(fr)](https://science.olympiad.ch/fr/actuel/detail/news/news/couvrez-cette-calculatrice-que-je-ne-saurais-voir-le-retour-du-raisonnement-a-lecole/) [(de)](https://science.olympiad.ch/de/aktuell/detail/news/news/tischlein-deck-dich-ein-mathematisches-festessen/). 
 
 ## Olympiad CV
 
