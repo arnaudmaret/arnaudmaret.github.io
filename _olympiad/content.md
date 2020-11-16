@@ -11,7 +11,7 @@ If you wonder what [Math Olympiad](https://www.imo-official.org/?language=en) ar
 
 ## Olympiad CV
 
-I am involved in the organization of the [Swiss Mathematical Olympiad](https://mathematical.olympiad.ch/en/) since 2013, and as academic director since 2017. 
+I am involved in the organization of the [mathematical.olympiad.ch](https://mathematical.olympiad.ch/en/) since 2013, and as academic director since 2017. 
 
 I represented Switzerland as a contestant at the MEMO 2012 and at the IMO 2013. I was team leader at the MEMO once in 2014 and at the IMO four times (2016, 2017, 2018, 2020). I also worked as coordinator at the EGMO 2017 and at the BxMO 2018.
 
