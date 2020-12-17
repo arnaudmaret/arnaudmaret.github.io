@@ -8,6 +8,5 @@ venue: 'journal'
 paperurl: 'https://arxiv.org/pdf/2012.05775.pdf'
 citation: 'citation'
 ---
-Soon!
 
 [Download paper here](https://arxiv.org/pdf/2012.05775.pdf)
