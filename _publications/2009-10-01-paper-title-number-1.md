@@ -1,13 +1,13 @@
 ---
-title: "title"
+title: "Ergodicity and super-maximal representations]{Ergodicity of the mapping class group action on super-maximal representations"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2009-10-01
+date: 2020-12-11
 venue: 'journal'
-paperurl: 'url'
+paperurl: 'https://arxiv.org/pdf/2012.05775.pdf'
 citation: 'citation'
 ---
 Soon!
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/pdf/2012.05775.pdf)
