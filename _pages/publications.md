@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Ergodicity of the mapping class group action on super-maximal representations. (2020) Available here[https://arxiv.org/pdf/2012.05775.pdf].
+- Ergodicity of the mapping class group action on super-maximal representations. (2020) Available [here](https://arxiv.org/pdf/2012.05775.pdf).
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
