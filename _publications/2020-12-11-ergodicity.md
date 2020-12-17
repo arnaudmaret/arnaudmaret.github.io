@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2020-12-11-ergodicity
 excerpt: ''
 date: 2020-12-11
-venue: ''
 paperurl: 'https://arxiv.org/pdf/2012.05775.pdf'
 citation: ''
 ---
