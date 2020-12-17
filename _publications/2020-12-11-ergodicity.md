@@ -1,7 +1,7 @@
 ---
-title: "Ergodicity and super-maximal representations]{Ergodicity of the mapping class group action on super-maximal representations"
+title: "Ergodicity of the mapping class group action on super-maximal representations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-12-11-ergodicity
 excerpt: ''
 date: 2020-12-11
 venue: 'journal'
