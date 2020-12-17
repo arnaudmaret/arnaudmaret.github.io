@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arnaud Maret"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Arnaud Maret"
 description              : &description "personal description"
