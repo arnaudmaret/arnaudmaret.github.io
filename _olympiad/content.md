@@ -25,7 +25,7 @@ Two of my own problems used at international level:
 ## Teaching notes
 Here are a bunch of notes I wrote for Olympiad training. These are available (as for now only) in french and german. Assorted exercices and other teaching material can be found [here](https://mathematical.olympiad.ch/en/navigation-mitte/skripts/). 
 
-*Feel free to use my scripts and please send me any comment or remark!
+*Feel free to use my scripts and please send me any comment or remark!*
 
 1. Introduction to functional equations: [(fr)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen1/fr-funktionalgleichungen1.pdf) [(de)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen1/de-funktionalgleichungen1.pdf)
 2. Functional equations 2 - Cauchy equations: [(fr)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen2/fr-funktionalgleichungen2.pdf) [(de)](https://mathematical.olympiad.ch/fileadmin/user_upload/Archiv/Intranet/Olympiads/Mathematics/deploy/skripte/algebra/funktionalgleichungen2/de-funktionalgleichungen2.pdf)
