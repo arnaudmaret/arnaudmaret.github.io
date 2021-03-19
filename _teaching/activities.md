@@ -12,9 +12,9 @@ Here is a list of relevant seminars, schools and workshops I attended or (co)org
 
 ## SoSe 2021
   
-  -Reading seminar: Anosov representations (University of Virginia)
-  -Reading Seminar: Group valued moment maps
-  -[Workshop](https://www.groups-and-spaces.kit.edu/245.php): Dynamics in one complex variable
+  - Reading seminar: Anosov representations (University of Virginia)
+  - Reading Seminar: Group valued moment maps
+  - [Workshop](https://www.groups-and-spaces.kit.edu/245.php): Dynamics in one complex variable
 
 ## WiSe 2020
 
