@@ -13,21 +13,21 @@ Here is a list of relevant seminars, schools and workshops I attended or (co)org
 ## SoSe 2021
   
   - Reading seminar: Anosov representations (University of Virginia)
-  - Reading Seminar: Group valued moment maps
-  - [Workshop](https://www.groups-and-spaces.kit.edu/245.php): Dynamics in one complex variable
+  - [Reading Seminar](http://arnaudmaret.github.io/files/plan-infinite-dimension.pdf): Infinite dimensional symplectic reduction
+  - [Workshop](http://arnaudmaret.github.io/files/plan-complex-dynamics.pdf): Dynamics in one complex variable
 
 ## WiSe 2020
 
   - [Working seminar](https://www.mathi.uni-heidelberg.de/~pozzetti/stability.html): Bridgeland's stability conditions for meromorphic differentials
   - Symplectic topics seminar - Sub-Riemannian geometry 
-  - [Workshop](https://www.groups-and-spaces.kit.edu/245.php): Topological K-Theory
+  - [Workshop](http://arnaudmaret.github.io/files/plan-k-theory.pdf): Topological K-Theory
   - [Lecture](https://www.mathi.uni-heidelberg.de/~gviaggi/hypgeo2020.html): Hyperbolic manifolds, by [G. Viaggi](https://www.mathi.uni-heidelberg.de/~gviaggi/)
 
 ## SoSe 2020 (surviving quarantine)
   
   - Seminar: Geometric Hydrodynamics meets Dynamical Data Analysis
   - Symplectic topics seminar - h-principles
-  - [Workshop](https://www.groups-and-spaces.kit.edu/245.php): Topological K-Theory (postponed to October 2020)
+  - [Workshop](http://arnaudmaret.github.io/files/plan-k-theory.pdf): Topological K-Theory (postponed to October 2020)
   - [Workshop](https://www.mathi.uni-heidelberg.de/~mpfeil/positivity.html) on Positivity in Lie Groups (postponed to July 2021)
 
 ## WiSe 2019/20
@@ -45,6 +45,6 @@ Here is a list of relevant seminars, schools and workshops I attended or (co)org
   
 ## WiSe 2018/19
   - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarWS1819.html): The symplectic structure of representation varieties
-  - [Workshop](http://www.groups-and-spaces.kit.edu/downloads/RTG_seminar_05_schedule_rational_homotopy_theory.pdf): Rational homotopy theory
+  - [Workshop](http://arnaudmaret.github.io/files/plan-rational-homotopy.pdf): Rational homotopy theory
   - Symplectic topics seminar - Floer homology
   - [Summer school](https://sites.google.com/view/equivariantsymplectichomology/) on Equivariant Symplectic Homology (JLU Giessen)
