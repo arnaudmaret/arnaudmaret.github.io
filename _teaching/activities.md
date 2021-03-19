@@ -15,6 +15,7 @@ Here is a list of relevant seminars, schools and workshops I attended or (co)org
   - Reading seminar: Anosov representations (University of Virginia)
   - [Reading Seminar](http://arnaudmaret.github.io/files/plan-infinite-dimension.pdf): Infinite dimensional symplectic reduction
   - [Workshop](http://arnaudmaret.github.io/files/plan-complex-dynamics.pdf): Dynamics in one complex variable
+  - [Workshop](https://www.mathi.uni-heidelberg.de/~mpfeil/positivity.html) on Positivity in Lie Groups 
 
 ## WiSe 2020
 
