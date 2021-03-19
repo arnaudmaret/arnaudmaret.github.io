@@ -22,8 +22,8 @@ Here is a list of relevant seminars, schools and workshops I attended. Some of w
   - [Working seminar](https://www.mathi.uni-heidelberg.de/~pozzetti/stability.html)\*: Bridgeland's stability conditions for meromorphic differentials
   - Symplectic topics seminar - Sub-Riemannian geometry 
   - [Workshop](http://arnaudmaret.github.io/files/plan-k-theory.pdf)\*: Topological K-Theory
-  - [Workshop](http://utrechtgeometrycentre.nl/15iyrw/): 15th International Young Researchers Workshop on Geometry, Mechanics, and Control
-  - [Winter school](https://ims.nus.edu.sg/events/topics-at-the-interface-of-low-dimensional-group-actions-and-geometric-structures/): Topics at the Interface of Low Dimensional Group Actions and Geometric Structures
+  - [Workshop](http://utrechtgeometrycentre.nl/15iyrw/): 15th International Young Researchers Workshop on Geometry, Mechanics, and Control (Universiteit Utrecht)
+  - [Winter school](https://ims.nus.edu.sg/events/topics-at-the-interface-of-low-dimensional-group-actions-and-geometric-structures/): Topics at the Interface of Low Dimensional Group Actions and Geometric Structures (National University of Singapore)
 
 ## SoSe 2020 (surviving quarantine)
   
