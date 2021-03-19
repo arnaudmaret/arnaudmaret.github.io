@@ -10,19 +10,25 @@ redirect_from:
 
 Here is a list of relevant seminars, schools and workshops I attended or (co)organized.
 
+## SoSe 2021
+  
+  -Reading seminar: Anosov representations (University of Virginia)
+  -Reading Seminar: Group valued moment maps
+  -[Blockseminar](https://www.groups-and-spaces.kit.edu/245.php): Dynamics in one complex variable
+
 ## WiSe 2020
 
   - [Working seminar](https://www.mathi.uni-heidelberg.de/~pozzetti/stability.html): Bridgeland's stability conditions for meromorphic differentials
   - Symplectic topics seminar - Sub-Riemannian geometry 
   - [Blockseminar](https://www.groups-and-spaces.kit.edu/245.php): Topological K-Theory
-  - [Workshop](https://www.mathi.uni-heidelberg.de/~mpfeil/positivity.html) on Positivity in Lie Groups (March 2021)
+  - [Lecture](https://www.mathi.uni-heidelberg.de/~gviaggi/hypgeo2020.html): Hyperbolic manifolds, by [G. Viaggi](https://www.mathi.uni-heidelberg.de/~gviaggi/)
 
 ## SoSe 2020 (surviving quarantine)
   
   - Seminar: Geometric Hydrodynamics meets Dynamical Data Analysis
   - Symplectic topics seminar - h-principles
   - [Blockseminar](https://www.groups-and-spaces.kit.edu/245.php): Topological K-Theory (postponed to October 2020)
-  - [Workshop](https://www.mathi.uni-heidelberg.de/~mpfeil/positivity.html) on Positivity in Lie Groups (postponed to March 2021)
+  - [Workshop](https://www.mathi.uni-heidelberg.de/~mpfeil/positivity.html) on Positivity in Lie Groups (postponed to July 2021)
 
 ## WiSe 2019/20
   
