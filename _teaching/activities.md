@@ -13,7 +13,7 @@ Here is a list of relevant seminars, schools and workshops I attended. Some of w
 ## Winter Semester 2021/22
 
   - I am visiting [Julien Marché](https://webusers.imj-prg.fr/~julien.marche/) at Institut de Mathématiques de Jussieu, Sorbonne Université, in Paris
-  - [Reading Seminar](http://www.math.ens.fr/~tholozan/Annexes/CocyclesReparametrizations2.pdf): Teichmüller geometry in the highest Teichmüller space
+  - [Reading Seminar](http://www.math.ens.fr/~tholozan/Annexes/CocyclesReparametrizations2.pdf): Teichmüller geometry in the highest Teichmüller space (ENS, Paris)
 
 ## Summer Semester 2021
   
