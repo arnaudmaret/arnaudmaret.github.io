@@ -12,15 +12,15 @@ Here is a list of relevant seminars, schools and workshops I attended. Some of w
 
 ## Winter Semester 2021/22
 
-  -I am visiting [Julien Marché](https://webusers.imj-prg.fr/~julien.marche/) at Institut de Mathématiques de Jussieu, Sorbonne Université, in Paris.
-  -[Reading Seminar](http://www.math.ens.fr/~tholozan/Annexes/CocyclesReparametrizations2.pdf): Teichmüller geometry in the highest Teichmüller space
+  - I am visiting [Julien Marché](https://webusers.imj-prg.fr/~julien.marche/) at Institut de Mathématiques de Jussieu, Sorbonne Université, in Paris
+  - [Reading Seminar](http://www.math.ens.fr/~tholozan/Annexes/CocyclesReparametrizations2.pdf): Teichmüller geometry in the highest Teichmüller space
 
 ## Summer Semester 2021
   
   - Reading seminar: Anosov representations (University of Virginia)
   - [Reading Seminar](http://arnaudmaret.github.io/files/plan-infinite-dimension.pdf)\*: Infinite dimensional symplectic reduction
   - [Workshop](http://arnaudmaret.github.io/files/plan-complex-dynamics.pdf)\*: Dynamics in one complex variable
-  - [Workshop](https://math.unice.fr/~jtoulisse/conf/aussois.html) on Anosov representations.
+  - [Workshop](https://math.unice.fr/~jtoulisse/conf/aussois.html) on Anosov representations
 
 ## Winter Semester 2020/21
 
