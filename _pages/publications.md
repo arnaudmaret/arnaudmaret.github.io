@@ -7,7 +7,8 @@ author_profile: true
 
 Here is a list of my publications.
 
-- *Ergodicity of the mapping class group action on super-maximal representations*. (2020) Available [here](https://arxiv.org/pdf/2012.05775.pdf).
+- *Action-angle coordinates for surface group representations in genus zero *, 2021. Available [here](https://arxiv.org/pdf/2110.13896.pdf).
+- *Ergodicity of the mapping class group action on super-maximal representations*, 2020. Submitted. Available [here](https://arxiv.org/pdf/2012.05775.pdf).
 
 <!--- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
