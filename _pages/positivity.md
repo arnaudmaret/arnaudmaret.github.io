@@ -15,7 +15,7 @@ The workshop is aimed at graduate students that are interested in the topic. Eve
 Download the [abstract](http://arnaudmaret.github.io/files/positivity-abstract.pdf) for the workshop as pdf, or a more detailed [outline](http://arnaudmaret.github.io/files/positivity-outline.pdf) of the topics that are going to be covered. 
 
 ### when? 
-The workshop will take place from *January 10th to 14th, 2022*.
+The workshop will take place from **January 10th to 14th, 2022**.
 
 Registration is open until November 5th, 2021 (by email to the organizers).
 
