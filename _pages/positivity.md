@@ -15,18 +15,20 @@ The workshop is aimed at graduate students that are interested in the topic. Eve
 Download the [abstract](http://arnaudmaret.github.io/files/positivity-abstract.pdf) for the workshop as pdf, or a more detailed [outline](http://arnaudmaret.github.io/files/positivity-outline.pdf) of the topics that are going to be covered. 
 
 ### when? 
-January 10th to 14th 2022
+The workshop will take place from January 10th to 14th, 2022.
+
+Registration is open until November 5th, 2021 (by email to the organizers).
 
 ### where? 
-[IWH Heidelberg](https://www.uni-heidelberg.de/einrichtungen/iwh/)
+The workshop will take place at the [IWH Heidelberg](https://www.uni-heidelberg.de/einrichtungen/iwh/).
 
 ### how?
 Travel to Heidelberg is simple by train or by plane to Frankfurt am Main, which is an hour away by train from Heidelberg. All talks will take place at IWH. To get to the IWH from the main station (Heidelberg Hbf), take the bus 20 direction Karlsplatz for 12 minutes, get off at Karlsplatz and walk 3 minutes to IWH. There are also other bus options which might involve longer trips on the bus or longer walking. 
 
-Accomodation for all participants will be provided at IWH in double rooms. We have limited funding to reimburse travel costs. 
+Accomodation for all participants will be provided at IWH in double rooms. Lunches from Monday to Friday will also be provided at the IWH. The participants are free to organize their own dinners. We have limited funding to reimburse travel costs. 
 
 ### who?
-Do you have any question ? Would you like to participate ? Then simply contact the organizers: [Xenia Flamm](https://people.math.ethz.ch/~xflamm/) and [Arnaud Maret](http://arnaudmaret.github.io/). We would like to thank Mareike Pfeil for all the work she initially put in to organize this workshop!
+Do you have any question ? Would you like to participate ? Then simply contact the organizers: [Xenia Flamm](https://people.math.ethz.ch/~xflamm/) and [Arnaud Maret](http://arnaudmaret.github.io/). We are very thankful to Mareike Pfeil for all the work she initially put in to organize the workshop!
 
 We gratefully acknowledge funding from the [STRUCTURES - Cluster of Excellence Young Researcher's Convent](https://www.structures.uni-heidelberg.de/). We thank the [IWH Heidelberg](https://www.uni-heidelberg.de/einrichtungen/iwh/) for providing its rooms. 
 
