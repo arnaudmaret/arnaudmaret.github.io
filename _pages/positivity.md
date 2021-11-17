@@ -17,7 +17,7 @@ Download the [abstract](http://arnaudmaret.github.io/files/positivity-abstract.p
 ### when? 
 The workshop will take place from **January 10th to 14th, 2022**.
 
-Registration is open until November 5th, 2021 (by email to the organizers).
+The preliminary timetable for the workshop is available [here](http://arnaudmaret.github.io/files/positivity-timetable.pdf).
 
 ### where? 
 The workshop will take place at the [IWH Heidelberg](https://www.uni-heidelberg.de/einrichtungen/iwh/).
@@ -28,7 +28,42 @@ Travel to Heidelberg is simple by train or by plane to Frankfurt am Main, which 
 Accomodation for all participants will be provided at IWH in double rooms. Lunches from Monday to Friday will also be provided at the IWH. The participants are free to organize their own dinners. We have limited funding to reimburse travel costs. 
 
 ### who?
-Do you have any question ? Would you like to participate ? Then simply contact the organizers: [Xenia Flamm](https://people.math.ethz.ch/~xflamm/) and [Arnaud Maret](http://arnaudmaret.github.io/). We are very thankful to Mareike Pfeil for all the work she initially put in to organize the workshop!
+
+The list of participants includes: 
+
+Lisa Ricci
+Arnaud Maret
+Marta Magnani
+Sofia Amontova
+Enrico Trebeschi
+Thomas Le Fils
+Victor Jaeck
+Luca De Rosa
+Suzanne Schlich
+Jacques Audibert
+Daniel Soskin
+Alex Moriani
+Colin Davolo
+Max Riestenberg
+Nguyen Thi Dang
+Yohann Bouilly
+Raphael Appenzeller
+Francesco Fournier Facio
+Samuel Bronstein
+Xian Dai
+Ilia Smilga
+Jingyi Xue
+Romeo Troubat
+Clarence Kineider
+Fernando Cadena Camacho
+Merik Niemeyer
+Valdo Tatitscheff
+Balthazar Fléchelles
+Pierre-Louis Blayac
+Dani Kaufman
+Xenia Lorena Flamm
+
+Do you have any question ? Then simply contact the organizers: [Xenia Flamm](https://people.math.ethz.ch/~xflamm/) and [Arnaud Maret](http://arnaudmaret.github.io/). We are very thankful to Mareike Pfeil for all the work she initially put in to organize the workshop!
 
 We gratefully acknowledge funding from the [STRUCTURES - Cluster of Excellence Young Researcher's Convent](https://www.structures.uni-heidelberg.de/). We thank the [IWH Heidelberg](https://www.uni-heidelberg.de/einrichtungen/iwh/) for providing its rooms. 
 
