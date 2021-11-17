@@ -32,36 +32,66 @@ Accomodation for all participants will be provided at IWH in double rooms. Lunch
 The list of participants includes: 
 
 Lisa Ricci
+
 Arnaud Maret
+
 Marta Magnani
+
 Sofia Amontova
+
 Enrico Trebeschi
+
 Thomas Le Fils
+
 Victor Jaeck
+
 Luca De Rosa
+
 Suzanne Schlich
+
 Jacques Audibert
+
 Daniel Soskin
+
 Alex Moriani
+
 Colin Davolo
+
 Max Riestenberg
+
 Nguyen Thi Dang
+
 Yohann Bouilly
+
 Raphael Appenzeller
+
 Francesco Fournier Facio
+
 Samuel Bronstein
+
 Xian Dai
+
 Ilia Smilga
+
 Jingyi Xue
+
 Romeo Troubat
+
 Clarence Kineider
+
 Fernando Cadena Camacho
+
 Merik Niemeyer
+
 Valdo Tatitscheff
+
 Balthazar Fléchelles
+
 Pierre-Louis Blayac
+
 Dani Kaufman
-Xenia Lorena Flamm
+
+Xenia Flamm
 
 Do you have any question ? Then simply contact the organizers: [Xenia Flamm](https://people.math.ethz.ch/~xflamm/) and [Arnaud Maret](http://arnaudmaret.github.io/). We are very thankful to Mareike Pfeil for all the work she initially put in to organize the workshop!
 
