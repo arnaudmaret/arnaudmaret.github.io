@@ -55,7 +55,7 @@ Daniel Soskin
 
 Alex Moriani
 
-Colin Davolo
+Colin Davalo
 
 Max Riestenberg
 
