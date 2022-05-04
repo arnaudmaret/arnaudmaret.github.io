@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 RTG Lecture -- Spring 2022
+
 University of Heidelberg & KIT Karlsruhe
 
 # Abstract
