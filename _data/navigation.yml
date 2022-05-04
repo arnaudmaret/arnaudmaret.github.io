@@ -20,9 +20,11 @@ main:
     
   #- title: "Guide"
     #url: /markdown/
-    
+  
+  - title: "Lecture: Character varieties"
+    url: /character-varieties/
+        
   - title: "Workshop: Positivity in Lie Groups"
     url: /positivity/
 
-  - title: "Lecture: Character varieties"
-    url: /character-varieties/
+  
