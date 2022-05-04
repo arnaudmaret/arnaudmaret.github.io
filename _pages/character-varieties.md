@@ -21,8 +21,6 @@ The minicourse will introduce all relevant notions and will, in particular, not 
 
 [Here](http://arnaudmaret.github.io/files/character-varieties.pdf) is an extended version of the material that I will present in the lecture. These notes are a first draft and are meant to be updated in the future. Any comment or correction is welcome!
 
-ADD NOTES
-
 # Schedule
 
 Lecture 1 (26.04.22): Short recap on Lie groups (introducing quadrable Lie groups) and surface groups. Definition of representation variety and its structure. Computation of Zariski tangent spaces.
