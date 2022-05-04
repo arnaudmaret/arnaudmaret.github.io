@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Young Researcher's Workshop on Positivity in Lie Groups"
-permalink: /positivity/
+title: "Lecture: Character varieties"
+permalink: /character-varieties/
 author_profile: true
 ---
 
