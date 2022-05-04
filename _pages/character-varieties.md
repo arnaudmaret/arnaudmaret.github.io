@@ -18,7 +18,7 @@ The minicourse will introduce all relevant notions and will, in particular, not 
 
 # Lecture notes
 
-Here is an extended version of the material that I will present in the lecture. These notes are a first draft and are meant to be updated in the future. Any comment or correction is welcome!
+[Here](http://arnaudmaret.github.io/files/character-varieties.pdf) is an extended version of the material that I will present in the lecture. These notes are a first draft and are meant to be updated in the future. Any comment or correction is welcome!
 
 ADD NOTES
 
