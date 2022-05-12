@@ -19,12 +19,14 @@ The minicourse will introduce all relevant notions and will, in particular, not 
 
 # Lecture notes
 
-[Here](http://arnaudmaret.github.io/files/character-varieties.pdf) is an extended version of the material that I will present in the lecture. These notes are a first draft and are meant to be updated in the future. Any comment or correction is welcome!
+[Here](http://arnaudmaret.github.io/files/character-varieties.pdf) is an extended version of the material that I will present in the lecture. These notes are a first draft and are meant to be updated in the future. 
+
+_Any comment or correction is always welcome!_
 
 # Schedule
 
 Lecture 1 (26.04.22): Short recap on Lie groups (introducing quadrable Lie groups) and surface groups. Definition of representation variety and its structure. Computation of Zariski tangent spaces.
 
-Lecture 2 (10.05.22): Brief recap on group cohomology. Definition of the Goldman symplectic form.
+Lecture 2 (10.05.22): Brief recap on group cohomology and symplectic geometry. Definition of the Goldman symplectic form.
 
 Lecture 3 (21.06.22): Introduce mapping class groups and their action on character varieties.
