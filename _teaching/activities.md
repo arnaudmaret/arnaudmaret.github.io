@@ -13,7 +13,7 @@ Here is a list of relevant lectures I gave and seminars, schools and workshops I
 ## Summer Semester 2022
 
   - [Lecture] I am teaching an [RTG Lecture](http://arnaudmaret.github.io/character-varieties) on "Character varieties -- a symplectic perspective" at the University of Heidelberg and at the KIT Karlsruhe
-  - [Reading Seminar]: AdS geometry
+  - Reading Seminar: AdS geometry
 
 ## Winter Semester 2021/22
 
