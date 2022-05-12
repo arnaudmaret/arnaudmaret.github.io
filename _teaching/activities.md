@@ -8,7 +8,7 @@ redirect_from:
   - /teaching
 ---
 
-Here is a list of relevant seminars, schools and workshops I attended. Some of which I (co)organized. These are denoted with an asterisk.
+Here is a list of relevant lectures I gave and seminars, schools and workshops I attended. Some of which I (co)organized. These are denoted with an asterisk.
 
 ## Summer Semester 2022
 
