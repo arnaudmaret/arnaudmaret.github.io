@@ -11,7 +11,7 @@ redirect_from:
 
 I am the academic director of [Swiss Mathematical Olympiad](https://mathematical.olympiad.ch/en/) since 2017, and an active member since 2013. 
 
-I represented  [Switzerland](https://www.imo-official.org/country_team_r.aspx?code=SUI) as a contestant at the MEMO 2012 and at the [IMO 2013](https://www.imo-official.org/participant_r.aspx?id=23219). I was team leader at the IMO four times (2016, 2017, 2018, 2020) and once at the MEMO in 2014. I was a coordinator at the EGMO 2017 and at the BxMO 2018.
+I represented  [Switzerland](https://www.imo-official.org/country_team_r.aspx?code=SUI) as a contestant at the MEMO 2012 and at the [IMO 2013](https://www.imo-official.org/participant_r.aspx?id=23219). I was _team leader_ for Switzerland at the IMO four times (2016, 2017, 2018, 2020) and once at the MEMO in 2014.  I was coordinator in various occasions including IMO 2022, EGMO 2017 and BxMO 2018. I was also _chief coordinator_ at MEMO 2022 in Bern, Switzerland, and member of the _problem selection committee_ for the IMO 2022.
 
 My favourite Olympiad topic is algebra.
 
