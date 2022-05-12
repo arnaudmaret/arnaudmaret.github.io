@@ -10,9 +10,14 @@ redirect_from:
 
 Here is a list of relevant seminars, schools and workshops I attended. Some of which I (co)organized. These are denoted with an asterisk.
 
+## Summer Semester 2022
+
+  - [Lecture] I am teaching an [RTG Lecture](http://arnaudmaret.github.io/character-varieties) on "Character varieties -- a symplectic perspective" at the University of Heidelberg and at the KIT Karlsruhe
+  - [Reading Seminar]: AdS geometry
+
 ## Winter Semester 2021/22
 
-  - I am visiting [Julien Marché](https://webusers.imj-prg.fr/~julien.marche/) at Institut de Mathématiques de Jussieu, Sorbonne Université, in Paris
+  - I was visiting [Julien Marché](https://webusers.imj-prg.fr/~julien.marche/) at Institut de Mathématiques de Jussieu, Sorbonne Université, in Paris
   - [Workshop](http://arnaudmaret.github.io/positivity)\*: Positivity in Lie Groups (IWH, Heidelberg, January 2022)
   - [Reading Seminar](http://www.math.ens.fr/~tholozan/Annexes/CocyclesReparametrizations2.pdf): Teichmüller geometry in the highest Teichmüller space (ENS, Paris)
 
