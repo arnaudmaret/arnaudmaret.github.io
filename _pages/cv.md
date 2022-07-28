@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Short Bio
-Since September 2018 I have been working as a PhD student of mathematics at the [University of Heidelberg](https://www.uni-heidelberg.de/) under the supervison of [Peter Albers](https://www.mathi.uni-heidelberg.de/~palbers/) and [Anna Wienhard](https://www.mathi.uni-heidelberg.de/~wienhard/). My [PhD thesis](https://arnaudmaret.github.io/files/thesis-arnaud-maret.pdf) is about Deroin--Tholozan representations of the fundamental group of a punctured sphere into PSL(2,R). I am planning to graduate in July 2022!
+I completed my PhD at the [University of Heidelberg](https://www.uni-heidelberg.de/) in July 2022. The research was conducted under the supervison of [Peter Albers](https://www.mathi.uni-heidelberg.de/~palbers/) and [Anna Wienhard](https://www.mathi.uni-heidelberg.de/~wienhard/). My [PhD thesis](https://arnaudmaret.github.io/files/thesis-arnaud-maret.pdf) is about Deroin--Tholozan representations of the fundamental group of a punctured sphere into PSL(2,R). I am starting a postdoc in November 2022 at [Sorbonne Université](https://www.sorbonne-universite.fr/en) with [Julien Marché](https://webusers.imj-prg.fr/~julien.marche/).
 
 I obtained my bachelor at EPFL in Lausanne in 2016 and completed my master at ETH in Zürich in 2018. My [master thesis](http://arnaudmaret.github.io/files/master_thesis.pdf), written under the supervision of [Will Merry](https://www.merry.io/), was concerned with dynamics in low dimensions. Namely the quest of a forcing relation for the existence of periodic orbits in surface homeomorphisms.
 
