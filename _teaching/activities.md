@@ -10,9 +10,14 @@ redirect_from:
 
 Here is a list of relevant lectures I gave and seminars, schools and workshops I attended. Some of which I (co)organized. These are denoted with an asterisk.
 
+## Autumn Semester 2022
+
+  - I will start my first postdoc at Sorbonne Université in November.
+  - I will be visiting [William Goldman](https://www.math.umd.edu/~wmg/) at the University of Maryland for a month.
+
 ## Summer Semester 2022
 
-  - [Lecture] I am teaching an [RTG Lecture](http://arnaudmaret.github.io/character-varieties) on "Character varieties -- a symplectic perspective" at the University of Heidelberg and at the KIT Karlsruhe
+  - [Lecture](http://arnaudmaret.github.io/character-varieties): I am teaching an RTG Lecture on "Character varieties -- a symplectic perspective" at the University of Heidelberg and at the KIT Karlsruhe
   - Reading Seminar: AdS geometry
 
 ## Winter Semester 2021/22
