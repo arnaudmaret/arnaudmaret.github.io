@@ -12,6 +12,7 @@ Here is a list of relevant lectures I gave and seminars, schools and workshops I
 
 ## Autumn Semester 2022
 
+  - [Workshop](http://arnaudmaret.github.io/cluster)\*: Interplay between symplectic geometry and cluster theory (IWH, Heidelberg, January 2023)
   - I will start my first postdoc at Sorbonne Université in November.
   - I will be visiting [William Goldman](https://www.math.umd.edu/~wmg/) at the University of Maryland for a month.
 
