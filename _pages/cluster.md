@@ -8,12 +8,12 @@ author_profile: true
 {% include base_path %}
 
 ### what? 
-The aim of this workshop is to understand some constructions in symplectic geometry that show a structure of cluster algebra. An example is [the work of Vianna](https://arxiv.org/abs/1409.2850) on Lagrangian tori in CP^2 and its relation with Markov triples.
+The aim of this workshop is to understand some constructions in symplectic geometry that carry cluster structures. An example is [the work of Vianna](https://arxiv.org/abs/1409.2850) on Lagrangian tori in CP^2 and its relation with Markov triples.
 
 The workshop is aimed at graduate students and senior scientists interested in the topic. There will be two minicourses and a couple of research talks.
 
-### when? 
-The workshop took place from **January 16th to 18th, 2023** at the [IWH Heidelberg](https://www.uni-heidelberg.de/einrichtungen/iwh/).
+### when and where? 
+The workshop took place at the [IWH Heidelberg](https://www.uni-heidelberg.de/einrichtungen/iwh/) from **16th to 18th January, 2023** .
 
 ### who?
 
