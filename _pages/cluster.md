@@ -8,9 +8,14 @@ author_profile: true
 {% include base_path %}
 
 ### what? 
-The aim of this workshop is to understand some constructions in symplectic geometry that carry cluster structures. An example is [the work of Vianna](https://arxiv.org/abs/1409.2850) on Lagrangian tori in CP^2 and its relation with Markov triples.
+Cluster algebras were introduced by Fomin and Zelevinsky in 2000 in the context of Lie theory. In the last twenty-two years the theory of cluster algebras gave life to several fascinating applications between different fields of mathematics such as quiver representations, Calabi-Yau categories, Teichm\"uller theory, Poisson geometry, and many others.
 
-The workshop is aimed at graduate students and senior scientists interested in the topic. There will be two minicourses and a couple of research talks.
+An interesting example stems from [the work of Vianna](https://arxiv.org/abs/1409.2850), where a connection between Markov triples and not Hamiltonian isotopic Lagrangian tori is established.
+Motivated by this result, we would like to further understand the relations between cluster structures, quiver representations and almost toric fibrations.
+
+The aim of this workshop is to gain a deeper understanding of these interplay thanks to two mini-courses held by experts as well as some research talks. The IWH will provide us with a charming environment for discussions towards further explorations and perspectives. 
+
+The workshop is aimed at graduate students and senior scientists interested in the topic. There will be two minicourses and a couple of research talks. You can download the abstract [here](http://arnaudmaret.github.io/files/cluster-abstract.pdf).
 
 ### when and where? 
 The workshop takes place at the [IWH Heidelberg](https://www.uni-heidelberg.de/einrichtungen/iwh/) from **16th to 18th January, 2023** .
