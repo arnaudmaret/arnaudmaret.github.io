@@ -24,7 +24,7 @@ The workshop takes place at the [IWH Heidelberg](https://www.uni-heidelberg.de/e
 
 Confirmed speakers: Jonny Evans (minicourse), Felix Schlenk (minicourse).
 
-Organizers: [Maria Bertozzi](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/mbertozzi.html.en), Alexandre Jannaud, and [Arnaud Maret](http://arnaudmaret.com/).
+Organizers: [Maria Bertozzi](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/mbertozzi.html.en), [Alexandre Jannaud](http://www.normalesup.org/~jannaud/), and [Arnaud Maret](http://arnaudmaret.com/).
 
 Scientific committee: [Peter Albers](https://www.mathi.uni-heidelberg.de/~palbers/), [Markus Reineke](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/reineke.html.de), and [Anna Wienhard](https://www.mathi.uni-heidelberg.de/~wienhard/).
 
