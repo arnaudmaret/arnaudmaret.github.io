@@ -31,15 +31,15 @@ Here is a list of lectures I gave and seminars, schools and workshops I organize
   - [Workshop](http://arnaudmaret.github.io/positivity): Positivity in Lie Groups (IWH, Heidelberg, January 2022)
  
 ### 2021
-  - [Workshop](http://arnaudmaret.github.io/files/plan-complex-dynamics.pdf): Dynamics in one complex variable (RTG Seminar, March 2021)
+  - [Workshop](http://arnaudmaret.github.io/files/plan-complex-dynamics.pdf): Dynamics in one complex variable (RTG Seminar, Heidelberg, March 2021)
   - [Seminar](https://www.mathi.uni-heidelberg.de/~pozzetti/stability.html): Bridgeland's stability conditions for meromorphic differentials (with B. Pozzetti)
  
 ### 2020
-  - [Workshop](http://arnaudmaret.github.io/files/plan-k-theory.pdf): Topological K-Theory (RTG Seminar, October 2020)
+  - [Workshop](http://arnaudmaret.github.io/files/plan-k-theory.pdf): Topological K-Theory (RTG Seminar, Heidelberg, October 2020)
 
 ## 2019
-  - [Workshop](http://arnaudmaret.github.io/files/plan-rational-homotopy.pdf): Rational homotopy theory (RTG Seminar, March 2019)
-  - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarWS1819.html): The symplectic structure of representation varieties
+  - [Workshop](http://arnaudmaret.github.io/files/plan-rational-homotopy.pdf): Rational homotopy theory (RTG Seminar, Heidelberg, March 2019)
+  - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarWS1819.html): The symplectic structure of representation varieties (with M. Pfeil)
  
 <!--
 ## Summer Semester 2022
