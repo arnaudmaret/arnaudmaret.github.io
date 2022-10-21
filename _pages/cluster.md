@@ -42,3 +42,5 @@ To register for the workshop, please use the following form.
 
 We gratefully acknowledge funding from the [CRC/TRR 191](http://www.mi.uni-koeln.de/CRC-TRR191/index.php?dom=home&page=main). 
 
+![Poster](http://arnaudmaret.github.io/images/poster.pdf)
+
