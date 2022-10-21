@@ -8,24 +8,24 @@ redirect_from:
   - /teaching
 ---
 
-Here is a list of relevant lectures I gave and seminars, schools and workshops I attended. Some of which I (co)organized. These are denoted with an asterisk.
-
-## Autumn Semester 2022
+Upcoming activities I will attend/organize and talks I will be giving.
 
   - [Workshop](http://arnaudmaret.github.io/cluster)\*: Interplay between symplectic geometry and cluster theory (IWH, Heidelberg, January 2023)
   - I will start my first postdoc at Sorbonne Université in November.
   - I was be visiting [Bill Goldman](https://www.math.umd.edu/~wmg/) at the University of Maryland for a month.
   - [Talk]: I gave a talk at the Geometry-Topolgy Seminar at the University of Maryland on October 10 on *Compact spaces of surface group representations in genus zero*.
 
+Here is a list of lectures I gave and seminars, schools and workshops I organized.
+
 # Teaching 
 
- ### 2022
- - [Lecture](http://arnaudmaret.github.io/character-varieties): I taught an RTG Lecture on "Character varieties -- a symplectic perspective" at the University of Heidelberg and at the KIT Karlsruhe. 
+### 2022
+ - [Lecture](http://arnaudmaret.github.io/character-varieties): *Character varieties -- a symplectic perspective* at the University of Heidelberg and at the KIT Karlsruhe. 
 
-# Conferences, workshops, and seminars
+# Workshops and seminars
 
 ### 2023
-  - [Conference](http://arnaudmaret.github.io/cluster): Interplay between symplectic geometry and cluster theory (IWH, Heidelberg, January 2023)
+  - [Workshop](http://arnaudmaret.github.io/cluster): Interplay between symplectic geometry and cluster theory (IWH, Heidelberg, January 2023)
   
 ### 2022
   - [Workshop](http://arnaudmaret.github.io/positivity): Positivity in Lie Groups (IWH, Heidelberg, January 2022)
