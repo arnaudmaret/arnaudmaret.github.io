@@ -21,6 +21,10 @@ The workshop is aimed at graduate students and senior scientists interested in t
 
 The workshop takes place at the [IWH Heidelberg](https://www.uni-heidelberg.de/einrichtungen/iwh/) from **16th to 18th January, 2023**. The IWH is ideally located in the old town of Heidelberg. The workshop starts on Monday morning and ends on Wednesday after lunch. Lunches will be provided at the IWH. 
 
+## how?
+
+To register for the workshop, please use the following form.
+
 ## who?
 
 **Minicourse speakers**: 
@@ -38,6 +42,3 @@ The workshop takes place at the [IWH Heidelberg](https://www.uni-heidelberg.de/e
 
 We gratefully acknowledge funding from the [CRC/TRR 191](http://www.mi.uni-koeln.de/CRC-TRR191/index.php?dom=home&page=main). 
 
-## how?
-
-To register for the workshop, please use the following form.
