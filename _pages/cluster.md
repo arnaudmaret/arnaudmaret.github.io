@@ -23,7 +23,7 @@ The workshop takes place at the [IWH Heidelberg](https://www.uni-heidelberg.de/e
 
 ## how?
 
-To register for the workshop, please use the following form.
+To register for the workshop, please use the following form (coming soon!).
 
 ## who?
 
