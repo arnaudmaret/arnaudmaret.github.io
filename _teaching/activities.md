@@ -8,14 +8,14 @@ redirect_from:
   - /teaching
 ---
 
-Upcoming activities I will attend/organize and talks I will be giving.
+Upcoming activities I will attend/organize and talks I will be giving:
 
   - [Workshop](http://arnaudmaret.github.io/cluster)\*: Interplay between symplectic geometry and cluster theory (IWH, Heidelberg, January 2023)
   - I will start my first postdoc at Sorbonne Université in November.
   - I was be visiting [Bill Goldman](https://www.math.umd.edu/~wmg/) at the University of Maryland for a month.
   - I gave a talk at the [Geometry-Topolgy Seminar](https://www-math.umd.edu/research/seminars/geometry-topology-seminar.html#) at the University of Maryland on October 10 on *Compact spaces of surface group representations in genus zero*.
 
-Here is a list of lectures I gave and seminars, schools and workshops I organized.
+Here is a list of lectures I gave and seminars, schools and workshops I organized:
 
 # Teaching 
 
