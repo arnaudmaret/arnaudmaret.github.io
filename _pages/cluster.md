@@ -23,13 +23,13 @@ The workshop takes place at the [IWH Heidelberg](https://www.uni-heidelberg.de/e
 ## who?
 
 **Minicourse speakers**: 
- - Jenny August
- - Jonny Evans
- - Felix Schlenk
+ - Jenny August (Aarhus University)
+ - Jonny Evans (University of Lancaster)
+ - Felix Schlenk (Université de Neuchâtel)
 
 **Research talks** (confirmed): 
- - Joé Brendel
- - Dani Kaufman
+ - Joé Brendel (Tel Aviv University)
+ - Dani Kaufman (University of Copenhagen)
 
 **Organizer**s: [Maria Bertozzi](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/mbertozzi.html.en), [Alexandre Jannaud](http://www.normalesup.org/~jannaud/), and [Arnaud Maret](http://arnaudmaret.com/).
 
