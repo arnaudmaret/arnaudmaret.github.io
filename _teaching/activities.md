@@ -14,11 +14,36 @@ Here is a list of relevant lectures I gave and seminars, schools and workshops I
 
   - [Workshop](http://arnaudmaret.github.io/cluster)\*: Interplay between symplectic geometry and cluster theory (IWH, Heidelberg, January 2023)
   - I will start my first postdoc at Sorbonne Université in November.
-  - I will be visiting [William Goldman](https://www.math.umd.edu/~wmg/) at the University of Maryland for a month.
+  - I was be visiting [Bill Goldman](https://www.math.umd.edu/~wmg/) at the University of Maryland for a month.
 
+# Teaching 
+
+ ### 2022
+ - [Lecture](http://arnaudmaret.github.io/character-varieties): I taught an RTG Lecture on "Character varieties -- a symplectic perspective" at the University of Heidelberg and at the KIT Karlsruhe. 
+
+# Conferences, workshops, and seminars
+
+### 2023
+  - [Conference](http://arnaudmaret.github.io/cluster): Interplay between symplectic geometry and cluster theory (IWH, Heidelberg, January 2023)
+  
+### 2022
+  - [Workshop](http://arnaudmaret.github.io/positivity): Positivity in Lie Groups (IWH, Heidelberg, January 2022)
+ 
+### 2021
+  - [Workshop](http://arnaudmaret.github.io/files/plan-complex-dynamics.pdf): Dynamics in one complex variable (RTG Seminar, March 2021)
+  - [Seminar](https://www.mathi.uni-heidelberg.de/~pozzetti/stability.html): Bridgeland's stability conditions for meromorphic differentials (with B. Pozzetti)
+ 
+### 2020
+  - [Workshop](http://arnaudmaret.github.io/files/plan-k-theory.pdf): Topological K-Theory (RTG Seminar, October 2020)
+
+## 2019
+  - [Workshop](http://arnaudmaret.github.io/files/plan-rational-homotopy.pdf): Rational homotopy theory (RTG Seminar, March 2019)
+  - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarWS1819.html): The symplectic structure of representation varieties
+ 
+<!--
 ## Summer Semester 2022
 
-  - [Lecture](http://arnaudmaret.github.io/character-varieties): I am teaching an RTG Lecture on "Character varieties -- a symplectic perspective" at the University of Heidelberg and at the KIT Karlsruhe
+  - [Lecture](http://arnaudmaret.github.io/character-varieties): I was teaching an RTG Lecture on "Character varieties -- a symplectic perspective" at the University of Heidelberg and at the KIT Karlsruhe
   - Reading Seminar: AdS geometry
 
 ## Winter Semester 2021/22
@@ -67,3 +92,4 @@ Here is a list of relevant lectures I gave and seminars, schools and workshops I
   - [Workshop](http://arnaudmaret.github.io/files/plan-rational-homotopy.pdf)\*: Rational homotopy theory
   - Symplectic topics seminar - Floer homology
   - [Summer school](https://sites.google.com/view/equivariantsymplectichomology/) on Equivariant Symplectic Homology (JLU Giessen)
+-->
