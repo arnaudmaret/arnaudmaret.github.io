@@ -18,7 +18,8 @@ The aim of this workshop is to gain a deeper understanding of these interplay th
 The workshop is aimed at graduate students and senior scientists interested in the topic. There will be *three minicourses and a six research talks*. You can download the abstract [here](http://arnaudmaret.github.io/files/cluster-abstract.pdf).
 
 ## when and where? 
-The workshop takes place at the [IWH Heidelberg](https://www.uni-heidelberg.de/einrichtungen/iwh/) from **16th to 18th January, 2023** .
+
+The workshop takes place at the [IWH Heidelberg](https://www.uni-heidelberg.de/einrichtungen/iwh/) from **16th to 18th January, 2023**. The IWH is ideally located in the old town of Heidelberg. The workshop starts on Monday morning and ends on Wednesday after lunch. Lunches will be provided at the IWH. 
 
 ## who?
 
@@ -36,3 +37,7 @@ The workshop takes place at the [IWH Heidelberg](https://www.uni-heidelberg.de/e
 **Scientific committee**: [Peter Albers](https://www.mathi.uni-heidelberg.de/~palbers/), [Markus Reineke](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/reineke.html.de), and [Anna Wienhard](https://www.mathi.uni-heidelberg.de/~wienhard/).
 
 We gratefully acknowledge funding from the [CRC/TRR 191](http://www.mi.uni-koeln.de/CRC-TRR191/index.php?dom=home&page=main). 
+
+## how?
+
+To register for the workshop, please use the following form.
