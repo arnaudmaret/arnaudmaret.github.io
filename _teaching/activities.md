@@ -15,6 +15,7 @@ Here is a list of relevant lectures I gave and seminars, schools and workshops I
   - [Workshop](http://arnaudmaret.github.io/cluster)\*: Interplay between symplectic geometry and cluster theory (IWH, Heidelberg, January 2023)
   - I will start my first postdoc at Sorbonne Université in November.
   - I was be visiting [Bill Goldman](https://www.math.umd.edu/~wmg/) at the University of Maryland for a month.
+  - [Talk]: I gave a talk at the Geometry-Topolgy Seminar at the University of Maryland on October 10 on *Compact spaces of surface group representations in genus zero*.
 
 # Teaching 
 
