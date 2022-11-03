@@ -23,7 +23,7 @@ The workshop takes place at the [IWH Heidelberg](https://www.uni-heidelberg.de/e
 
 ## how?
 
-To register for the workshop, please use the following form (coming soon!).
+To register for the workshop, please use the following [form](https://forms.gle/ABQzRJRaU5bU1pAj7).
 
 ## who?
 
@@ -34,7 +34,9 @@ To register for the workshop, please use the following form (coming soon!).
 
 **Research talks** (confirmed): 
  - Joé Brendel (Tel Aviv University)
+ - Zachary Greenberg (University of Heidelberg)
  - Dani Kaufman (University of Copenhagen)
+ - Sergey Mozgovoy (Trinity College Dublin)
 
 **Organizer**s: [Maria Bertozzi](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/mbertozzi.html.en), [Alexandre Jannaud](http://www.normalesup.org/~jannaud/), and [Arnaud Maret](http://arnaudmaret.com/).
 
