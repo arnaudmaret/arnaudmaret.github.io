@@ -36,7 +36,7 @@ To register for the workshop, please use the following [form](https://forms.gle/
  - Joé Brendel (Tel Aviv University)
  - Zachary Greenberg (University of Heidelberg)
  - Dani Kaufman (University of Copenhagen)
- - Nicole Magill (Cornell University)
+ - Nicki Magill (Cornell University)
  - Sergey Mozgovoy (Trinity College Dublin)
 
 **Organizer**s: [Maria Bertozzi](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/mbertozzi.html.en), [Alexandre Jannaud](http://www.normalesup.org/~jannaud/), and [Arnaud Maret](http://arnaudmaret.com/).
