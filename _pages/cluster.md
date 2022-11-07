@@ -23,7 +23,7 @@ The workshop takes place at the [IWH Heidelberg](https://www.uni-heidelberg.de/e
 
 ## how?
 
-To register for the workshop, please use the following [form](https://forms.gle/ABQzRJRaU5bU1pAj7).
+To register for the workshop, please use the following [form](https://forms.gle/ABQzRJRaU5bU1pAj7). The deadline for registration is **15th December, 2022**.
 
 ## who?
 
