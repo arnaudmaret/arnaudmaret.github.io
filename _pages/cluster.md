@@ -15,7 +15,7 @@ Motivated by this result, we would like to further understand the relations betw
 
 The aim of this workshop is to gain a deeper understanding of these interplay thanks to three mini-courses held by experts as well as some research talks. The IWH will provide us with a charming environment for discussions towards further explorations and perspectives. 
 
-The workshop is aimed at graduate students and senior scientists interested in the topic. There will be *three minicourses and a six research talks*. You can download the abstract [here](http://arnaudmaret.github.io/files/cluster-abstract.pdf).
+The workshop is aimed at graduate students and senior scientists interested in the topic. There will be *three minicourses and six research talks*. You can download the abstract [here](http://arnaudmaret.github.io/files/cluster-abstract.pdf).
 
 ## when and where? 
 
@@ -39,7 +39,7 @@ To register for the workshop, please use the following [form](https://forms.gle/
  - Nicki Magill (Cornell University)
  - Sergey Mozgovoy (Trinity College Dublin)
 
-**Organizer**s: [Maria Bertozzi](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/mbertozzi.html.en), [Alexandre Jannaud](http://www.normalesup.org/~jannaud/), and [Arnaud Maret](http://arnaudmaret.com/).
+**Organizers**: [Maria Bertozzi](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/mbertozzi.html.en), [Alexandre Jannaud](http://www.normalesup.org/~jannaud/), and [Arnaud Maret](http://arnaudmaret.com/).
 
 **Scientific committee**: [Peter Albers](https://www.mathi.uni-heidelberg.de/~palbers/), [Markus Reineke](https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/reineke.html.de), and [Anna Wienhard](https://www.mathi.uni-heidelberg.de/~wienhard/).
 
