@@ -19,11 +19,13 @@ The workshop is aimed at graduate students and senior scientists interested in t
 
 ## when and where? 
 
-The workshop takes place at the [IWH Heidelberg](https://www.uni-heidelberg.de/einrichtungen/iwh/) from **16th to 18th January, 2023**. The IWH is ideally located in the old town of Heidelberg. The workshop starts on Monday morning and ends on Wednesday after lunch. Lunches will be provided at the IWH. 
+The workshop takes place at the [IWH Heidelberg](https://www.uni-heidelberg.de/einrichtungen/iwh/) from **16th to 18th January, 2023**. The IWH is ideally located in the old town of Heidelberg. Lunches will be provided at the IWH. 
+
+The workshop starts on Monday morning and ends on Wednesday after lunch. You can download the schedule of the workshop [here](http://arnaudmaret.github.io/files/timetable-cluster.pdf).
 
 ## how?
 
-To register for the workshop, please use the following [form](https://forms.gle/ABQzRJRaU5bU1pAj7). The deadline for registration is **15th December, 2022**.
+The deadline for registration was **15th December, 2022**.
 
 ## who?
 
