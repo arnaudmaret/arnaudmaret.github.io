@@ -8,13 +8,13 @@ redirect_from:
   - /teaching
 ---
 
-Upcoming activities I will attend/organize and talks I will be giving:
+Upcoming:
 
   - I'm traveling to Tokyo in June to visit Prof Ken’ichi Ohshika in Tokyo for a couple of weeks and attend the IMO. I will give a talk at the Topology Seminar of the University of Tokyo on June 20.
   - I'll be attending the conference [Teichmüller Theory: Classical, Higher, Super and Quantum](https://www.mfo.de/occasion/2331/www_view) in Oberwolfach in July.
   - At the end of August, I'll give a talk at the workshop on [Metrics on higher Teichmüller spaces](https://sites.google.com/view/frejus-2023/home) in Fréjus in the south of France.
 
-Here is a list of lectures I gave and seminars, schools and workshops I organized:
+Past:
 
 # Teaching 
 
@@ -34,15 +34,15 @@ Here is a list of lectures I gave and seminars, schools and workshops I organize
 ### 2021
   - [Workshop](http://arnaudmaret.github.io/files/plan-complex-dynamics.pdf): Dynamics in one complex variable (RTG Seminar, Heidelberg, March 2021)
   - [Seminar](https://www.mathi.uni-heidelberg.de/~pozzetti/stability.html): Bridgeland's stability conditions for meromorphic differentials (with B. Pozzetti)
- 
+
+<!--
 ### 2020
   - [Workshop](http://arnaudmaret.github.io/files/plan-k-theory.pdf): Topological K-Theory (RTG Seminar, Heidelberg, October 2020)
 
-## 2019
+### 2019
   - [Workshop](http://arnaudmaret.github.io/files/plan-rational-homotopy.pdf): Rational homotopy theory (RTG Seminar, Heidelberg, March 2019)
   - [Seminar](https://www.mathi.uni-heidelberg.de/~mpfeil/seminarWS1819.html): The symplectic structure of representation varieties (with M. Pfeil)
  
-<!--
 ## Summer Semester 2022
 
   - [Lecture](http://arnaudmaret.github.io/character-varieties): I was teaching an RTG Lecture on "Character varieties -- a symplectic perspective" at the University of Heidelberg and at the KIT Karlsruhe
