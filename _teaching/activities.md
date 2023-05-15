@@ -15,13 +15,13 @@ redirect_from:
 # Teaching and selected talks
 
 ### 2023
-  - Talk: The two natures of components of character varieties, Topology Seminar, University of Iowa [(slides)](http://arnaudmaret.github.io/files/talk-iowa).
+  - Talk: The two natures of components of character varieties, Topology Seminar, University of Iowa [(slides)](http://arnaudmaret.github.io/files/talk-iowa.pdf).
 
 ### 2022
   - [Lecture](http://arnaudmaret.github.io/character-varieties): *Character varieties -- a symplectic perspective* at the University of Heidelberg and at the KIT Karlsruhe.
 
 ### 2021
-  - Talk: On remarkable representations of the fundamental group of a punctured sphere into PSL(2,R), Topology Seminar, University of Bristol [(slides)](http://arnaudmaret.github.io/files/talk-bristol).
+  - Talk: On remarkable representations of the fundamental group of a punctured sphere into PSL(2,R), Topology Seminar, University of Bristol [(slides)](http://arnaudmaret.github.io/files/talk-bristol.pdf).
 
 #  Past workshops, seminars, and research stays
 
