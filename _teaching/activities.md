@@ -23,7 +23,7 @@ redirect_from:
 ### 2021
   - Talk: On remarkable representations of the fundamental group of a punctured sphere into PSL(2,R), Topology Seminar, University of Bristol [(slides)](http://arnaudmaret.github.io/files/talk-bristol).
 
-#  Previous workshops, seminars, and research stays
+#  Past workshops, seminars, and research stays
 
 ### 2023
   - [Summer schhol](https://sites.google.com/view/symmetricspaces2023): Geometry of Locally Symmetric Spaces (Montevideo, Uruguay, February 2023)
