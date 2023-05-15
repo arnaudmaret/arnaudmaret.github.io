@@ -8,18 +8,20 @@ redirect_from:
   - /teaching
 ---
 
-Upcoming:
-
   - I'm traveling to Tokyo in June to visit Prof Ken’ichi Ohshika in Tokyo for a couple of weeks and attend the IMO. I will give a talk at the Topology Seminar of the University of Tokyo on June 20.
   - I'll be attending the conference [Teichmüller Theory: Classical, Higher, Super and Quantum](https://www.mfo.de/occasion/2331/www_view) in Oberwolfach in July.
   - At the end of August, I'll give a talk at the workshop on [Metrics on higher Teichmüller spaces](https://sites.google.com/view/frejus-2023/home) in Fréjus in the south of France.
 
-Past:
+# Teaching and talks
 
-# Teaching 
+### 2023
+  - [Talk]: The two natures of components of character varieties, Topology Seminar, University of Iowa [(slides)](http://arnaudmaret.github.io/files/talk-iowa).
 
 ### 2022
- - [Lecture](http://arnaudmaret.github.io/character-varieties): *Character varieties -- a symplectic perspective* at the University of Heidelberg and at the KIT Karlsruhe. 
+ - [Lecture](http://arnaudmaret.github.io/character-varieties): *Character varieties -- a symplectic perspective* at the University of Heidelberg and at the KIT Karlsruhe.
+
+### 2021
+  - [Talk]: On remarkable representations of the fundamental group of a punctured sphere into PSL(2,R), Topology Seminar, University of Bristol [(slides)](http://arnaudmaret.github.io/files/talk-bristol).
 
 # Workshops, seminars, and research stays
 
