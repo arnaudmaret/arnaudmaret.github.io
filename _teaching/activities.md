@@ -10,10 +10,9 @@ redirect_from:
 
 Upcoming activities I will attend/organize and talks I will be giving:
 
-  - [Workshop](http://arnaudmaret.github.io/cluster)\*: Interplay between symplectic geometry and cluster theory (IWH, Heidelberg, January 2023)
-  - I will start my first postdoc at Sorbonne Université in November.
-  - I was be visiting [Bill Goldman](https://www.math.umd.edu/~wmg/) at the University of Maryland for a month.
-  - I gave a talk at the [Geometry-Topolgy Seminar](https://www-math.umd.edu/research/seminars/geometry-topology-seminar.html#) at the University of Maryland on October 10 on *Compact spaces of surface group representations in genus zero*.
+  - I will travel to Tokyo in June to visit Prof Ken’ichi Ohshika in Tokyo for a couple of weeks and attend the IMO. I will give a talk at the Topology Seminar of the University of Tokyo on June 20.
+  - I'll be attending the conference [Teichmüller Theory: Classical, Higher, Super and Quantum](https://www.mfo.de/occasion/2331/www_view) in Oberwolfach in July.
+  - At the end of August, I'll give a talk at the workshop on [Metrics on higher Teichmüller spaces](https://sites.google.com/view/frejus-2023/home) in Fréjus in the south of France.
 
 Here is a list of lectures I gave and seminars, schools and workshops I organized:
 
@@ -22,12 +21,14 @@ Here is a list of lectures I gave and seminars, schools and workshops I organize
 ### 2022
  - [Lecture](http://arnaudmaret.github.io/character-varieties): *Character varieties -- a symplectic perspective* at the University of Heidelberg and at the KIT Karlsruhe. 
 
-# Workshops and seminars
+# Workshops, seminars, and research stays
 
 ### 2023
+  - [Summer schhol](https://sites.google.com/view/symmetricspaces2023): Geometry of Locally Symmetric Spaces (Montevideo, Uruguay, February 2023)
   - [Workshop](http://arnaudmaret.github.io/cluster): Interplay between symplectic geometry and cluster theory (IWH, Heidelberg, January 2023)
   
 ### 2022
+  - I had the pleasure to visit Bill Goldman at the university of Maryland in September 2022.
   - [Workshop](http://arnaudmaret.github.io/positivity): Positivity in Lie Groups (IWH, Heidelberg, January 2022)
  
 ### 2021
