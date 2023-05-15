@@ -16,4 +16,4 @@ I completed my PhD at the [University of Heidelberg](https://www.uni-heidelberg.
 
 Research areas that particularly motivate me include character varieties (of surface group representations), symplectic geometry (of character varieties), and dynamical systems (such as mapping class group dynamics on character varieties).
 
-In parallel with my work as mathematician, I work as academic director for the Swiss Mathematical Olympiad.
+In parallel with my work as a researcher, I am also active in the world of Mathematical Olympiad.
