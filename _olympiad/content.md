@@ -9,27 +9,25 @@ redirect_from:
 
 ## Olympiad CV
 
-I am the academic director of [Swiss Mathematical Olympiad](https://mathematical.olympiad.ch/en/) since 2017, and an active member since 2013. I am also a board member of the [Swiss Science Olympiad](https://science.olympiad.ch/en) since 2022.
+I am a board member of the [Swiss Science Olympiad](https://science.olympiad.ch/en) since 2022 and an active member of the [Swiss Mathematical Olympiad](https://mathematical.olympiad.ch/en/) since 2013. Since 2022, I am also a member of the IMO problem selection committee. Previously, I was the academic director of the Swiss Mathematical Olympiad from 2017 to 2022.
 
-I represented  [Switzerland](https://www.imo-official.org/country_team_r.aspx?code=SUI) at various international Olympiad.
+I was myself contestant for [Switzerland](https://www.imo-official.org/country_team_r.aspx?code=SUI) at the IMO 2013 (HM) and at MEMO 2012. Since then, I have been team leader and coordinator on several occasions. 
 
-- MEMO 2012: contestant
-- [IMO 2013](https://www.imo-official.org/participant_r.aspx?id=23219): contestant (honorable mention) 
-- MEMO 2015: deputy leader
 - IMO 2016, 2017, 2018, 2020: team leader
-- EGMO 2017: coordinator
-- BxMO 2018: coordinator
-- IMO 2022: problem selection committee and coordinator
+- IMO 2022, 2023: problem selection committee and coordinator
 - MEMO 2022: chief coordinator
+- MEMO 2015: deputy leader
+- EGMO 2017, 2023: coordinator
+- BxMO 2018: coordinator
 
 My favourite Olympiad topic is algebra.
 
-I organized the second edition of the Olympiade Francophone de Mathématiques in 2021 - an international competition to which about 100 students from 9 countries took part. 
+I organized the second edition of the [Olympiade Francophone de Mathématiques](http://igm.univ-mlv.fr/~juge/ofm/) in 2021 - an international competition to which about 100 students from 9 countries took part. 
 
 Two of my own problems used at international level:
 
-1. [A1](https://artofproblemsolving.com/community/c6h1876757p12752810) on the IMO Shortlist 2018 
-2. [P7](https://artofproblemsolving.com/community/c6h1135658p5301680) of the team competition at the MEMO 2015
+1. [A1](https://artofproblemsolving.com/community/c6h1876757p12752810) on the IMO Shortlist 2018.
+2. [P7](https://artofproblemsolving.com/community/c6h1135658p5301680) of the team competition at the MEMO 2015.
 
 ## Teaching notes
 Here are a bunch of notes I wrote for Olympiad training. These are available (as for now only) in french and german. Assorted exercices and other teaching material can be found [here](https://mathematical.olympiad.ch/en/navigation-mitte/skripts/). 
