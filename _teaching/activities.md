@@ -10,7 +10,7 @@ redirect_from:
 
 Upcoming activities I will attend/organize and talks I will be giving:
 
-  - I will travel to Tokyo in June to visit Prof Ken’ichi Ohshika in Tokyo for a couple of weeks and attend the IMO. I will give a talk at the Topology Seminar of the University of Tokyo on June 20.
+  - I'm traveling to Tokyo in June to visit Prof Ken’ichi Ohshika in Tokyo for a couple of weeks and attend the IMO. I will give a talk at the Topology Seminar of the University of Tokyo on June 20.
   - I'll be attending the conference [Teichmüller Theory: Classical, Higher, Super and Quantum](https://www.mfo.de/occasion/2331/www_view) in Oberwolfach in July.
   - At the end of August, I'll give a talk at the workshop on [Metrics on higher Teichmüller spaces](https://sites.google.com/view/frejus-2023/home) in Fréjus in the south of France.
 
