@@ -12,18 +12,14 @@ redirect_from:
   - I'll be attending the conference [Teichmüller Theory: Classical, Higher, Super and Quantum](https://www.mfo.de/occasion/2331/www_view) in Oberwolfach in July.
   - At the end of August, I'll give a talk at the workshop on [Metrics on higher Teichmüller spaces](https://sites.google.com/view/frejus-2023/home) in Fréjus in the south of France.
 
-# Teaching and selected talks
+# Selected talks
+  - The two natures of components of character varieties, Topology Seminar, University of Iowa [(slides)](http://arnaudmaret.github.io/files/talk-iowa.pdf).
+  - On remarkable representations of the fundamental group of a punctured sphere into PSL(2,R), Topology Seminar, University of Bristol [(slides)](http://arnaudmaret.github.io/files/talk-bristol.pdf).
 
-### 2023
-  - Talk: The two natures of components of character varieties, Topology Seminar, University of Iowa [(slides)](http://arnaudmaret.github.io/files/talk-iowa.pdf).
+# Lecture notes
+  - **RTG Lecture** Character varieties -- a symplectic perspective, University of Heidelberg and KIT Karlsruhe [(notes)](http://arnaudmaret.github.io/character-varieties).  
 
-### 2022
-  - [Lecture](http://arnaudmaret.github.io/character-varieties): *Character varieties -- a symplectic perspective* at the University of Heidelberg and at the KIT Karlsruhe.
-
-### 2021
-  - Talk: On remarkable representations of the fundamental group of a punctured sphere into PSL(2,R), Topology Seminar, University of Bristol [(slides)](http://arnaudmaret.github.io/files/talk-bristol.pdf).
-
-#  Past workshops, seminars, and research stays
+# Past workshops, seminars, and research stays
 
 ### 2023
   - [Summer schhol](https://sites.google.com/view/symmetricspaces2023): Geometry of Locally Symmetric Spaces (Montevideo, Uruguay, February 2023)
