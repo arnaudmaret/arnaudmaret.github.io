@@ -13,11 +13,11 @@ redirect_from:
   - At the end of August, I'll give a talk at the workshop on [Metrics on higher Teichmüller spaces](https://sites.google.com/view/frejus-2023/home) in Fréjus in the south of France.
 
 # Selected talks
-  - The two natures of components of character varieties, Topology Seminar, University of Iowa [(slides)](http://arnaudmaret.github.io/files/talk-iowa.pdf).
-  - On remarkable representations of the fundamental group of a punctured sphere into PSL(2,R), Topology Seminar, University of Bristol [(slides)](http://arnaudmaret.github.io/files/talk-bristol.pdf).
+  - *The two natures of components of character varieties*, Topology Seminar, University of Iowa [(slides)](http://arnaudmaret.github.io/files/talk-iowa.pdf).
+  - *On remarkable representations of the fundamental group of a punctured sphere into PSL(2,R)*, Topology Seminar, University of Bristol [(slides)](http://arnaudmaret.github.io/files/talk-bristol.pdf).
 
 # Lecture notes
-  - **RTG Lecture** Character varieties -- a symplectic perspective, University of Heidelberg and KIT Karlsruhe [(notes)](http://arnaudmaret.github.io/character-varieties).  
+  - **RTG Lecture** *Character varieties -- a symplectic perspective*, University of Heidelberg and KIT Karlsruhe [(notes)](http://arnaudmaret.github.io/character-varieties).  
 
 # Past workshops, seminars, and research stays
 
