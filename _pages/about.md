@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-I am a postdoctoral researcher of mathematics at [Sorbonne Université](https://www.sorbonne-universite.fr/en) in the group [Analyse complexe et Géométrie](https://www.imj-prg.fr/acg/) under the supervision of [Julien Marché](https://webusers.imj-prg.fr/~julien.marche/).
+I am an FSMP postdoctoral researcher of mathematics at [Sorbonne Université](https://www.sorbonne-universite.fr/en) in the group [Analyse complexe et Géométrie](https://www.imj-prg.fr/acg/) under the supervision of [Julien Marché](https://webusers.imj-prg.fr/~julien.marche/).
 
 I completed my PhD at the [University of Heidelberg](https://www.uni-heidelberg.de/) in Germany under the direction of [Peter Albers](https://www.mathi.uni-heidelberg.de/~palbers/) and [Anna Wienhard](https://www.mathi.uni-heidelberg.de/~wienhard/) in July 2022.
 
