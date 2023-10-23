@@ -8,9 +8,10 @@ redirect_from:
   - /teaching
 ---
 
-  - I'm traveling to Tokyo in June to visit Prof Ken’ichi Ohshika in Tokyo for a couple of weeks and attend the IMO. I will give a talk at the Topology Seminar of the University of Tokyo on June 20.
-  - I'll be attending the conference [Teichmüller Theory: Classical, Higher, Super and Quantum](https://www.mfo.de/occasion/2331/www_view) in Oberwolfach in July.
-  - At the end of August, I'll give a talk at the workshop on [Metrics on higher Teichmüller spaces](https://sites.google.com/view/frejus-2023/home) in Fréjus in the south of France.
+I will give a couple of research talks during the fall:
+  - Geometry seminar of Lyon 1 (October 20th).
+  - Séminaire de théorie spectrale et géométrie in Grenoble (November 16th).
+  - [Symplectic zoominar](http://www.math.tau.ac.il/~sarabt/zoominar/) (December 8th, online). 
 
 # Selected talks
   - *The two natures of components of character varieties*, Topology Seminar, University of Iowa [(slides)](http://arnaudmaret.github.io/files/talk-iowa.pdf).
@@ -22,6 +23,7 @@ redirect_from:
 # Past workshops, seminars, and research stays
 
 ### 2023
+  - [Workshop](https://sites.google.com/view/frejus-2023/home): Metrics on higher Teichmüller spaces (Fréjus, France, August 2023)
   - [Summer schhol](https://sites.google.com/view/symmetricspaces2023): Geometry of Locally Symmetric Spaces (Montevideo, Uruguay, February 2023)
   - [Workshop](http://arnaudmaret.github.io/cluster): Interplay between symplectic geometry and cluster theory (IWH, Heidelberg, January 2023)
   
