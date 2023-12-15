@@ -14,6 +14,7 @@ I will give a couple of research talks during the fall:
   - [Symplectic zoominar](http://www.math.tau.ac.il/~sarabt/zoominar/) (December 8th, online). 
 
 # Selected talks
+  - *Complex Projective Spaces Via Surface Groups Representations*, Symplectic Zoominar, Institute for advanced studies [(video)](https://www.youtube.com/watch?v=Kfv6A3Av9Cg&t=572s).
   - *The two natures of components of character varieties*, Topology Seminar, University of Iowa [(slides)](http://arnaudmaret.github.io/files/talk-iowa.pdf).
   - *On remarkable representations of the fundamental group of a punctured sphere into PSL(2,R)*, Topology Seminar, University of Bristol [(slides)](http://arnaudmaret.github.io/files/talk-bristol.pdf).
 
