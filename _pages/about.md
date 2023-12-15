@@ -16,7 +16,7 @@ I completed my PhD at the [University of Heidelberg](https://www.uni-heidelberg.
 
 **I am currently on the job market to start a new position in the fall 2024.**
 
-Research areas that particularly motivate me include representations of surface groups, (higher) Teichmüller Theory, symplectic geometry, (complex)
+Research areas that particularly motivate me include representations of surface groups and character varieties, (higher) Teichmüller Theory, symplectic geometry, (complex)
 hyperbolic geometry, and dynamics on character varieties.
 
 In parallel with my work as a researcher, I am also active in the world of Mathematical Olympiad.
