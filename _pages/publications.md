@@ -7,7 +7,7 @@ author_profile: true
 
 Here is a list of my *published* research papers:
 
-- *Ergodicity of the mapping class group action on super-maximal representations*. Groups Geom. Dyn. 16 (2022), 1341–1368. Available [here](https://ems.press/content/serial-article-files/26737).
+- *Ergodicity of the mapping class group action on Deroin-Tholozan representations*. Groups Geom. Dyn. 16 (2022), 1341–1368. Available [here](https://arxiv.org/pdf/2012.05775.pdf).
 - *Action-angle coordinates for surface group representations in genus zero*, 2022, to appear in in J. Symplectic Geom. Available [here](https://arxiv.org/pdf/2110.13896.pdf).
 
 Here is a list of my *preprints*:
