@@ -8,10 +8,9 @@ redirect_from:
   - /teaching
 ---
 
-I will give a couple of research talks during the fall:
-  - Geometry seminar of Lyon 1 (October 20th).
-  - Séminaire de théorie spectrale et géométrie in Grenoble (November 16th).
-  - [Symplectic zoominar](http://www.math.tau.ac.il/~sarabt/zoominar/) (December 8th, online). 
+Here is a list of scientific events I'm planning to attend in the spring of 2024:
+  - [Conference](https://math.univ-cotedazur.fr/~jtoulisse/conf/autrans2024.html) on Submanifolds of locally symmetric spaces: geometric, analytic and dynamical aspects, Autrans, France.
+  - In May I'll be travelling to Seoul National University to visit [Gye-Seon Lee](https://www.math.snu.ac.kr/~gyeseonlee/).
 
 # Selected talks
   - *Complex Projective Spaces Via Surface Groups Representations*, Symplectic Zoominar, Institute for advanced studies [(video)](https://www.youtube.com/watch?v=Kfv6A3Av9Cg&t=572s).
