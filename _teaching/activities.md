@@ -10,7 +10,7 @@ redirect_from:
 
 Here is a list of scientific events I'm planning to attend in the spring of 2024:
   - [Conference](https://math.univ-cotedazur.fr/~jtoulisse/conf/autrans2024.html) on Submanifolds of locally symmetric spaces: geometric, analytic and dynamical aspects, Autrans, France.
-  - In May I'll be travelling to Seoul National University to visit [Gye-Seon Lee](https://www.math.snu.ac.kr/~gyeseonlee/).
+  - In May I'll be traveling to Seoul National University to visit [Gye-Seon Lee](https://www.math.snu.ac.kr/~gyeseonlee/).
 
 # Selected talks
   - *Complex Projective Spaces Via Surface Groups Representations*, Symplectic Zoominar, Institute for advanced studies [(video)](https://www.youtube.com/watch?v=Kfv6A3Av9Cg&t=572s).
