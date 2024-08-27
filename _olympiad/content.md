@@ -9,7 +9,9 @@ redirect_from:
 
 ## Olympiad CV
 
-I am a board member of the [Swiss Science Olympiad](https://science.olympiad.ch/en) since 2022 and an active member of the [Swiss Mathematical Olympiad](https://mathematical.olympiad.ch/en/) since 2013. Since 2022, I am also a member of the **IMO problem selection committee**. Previously, I was the **academic director** of the Swiss Mathematical Olympiad from 2017 to 2022.
+I'm an active member of the [Swiss Mathematical Olympiad](https://mathematical.olympiad.ch/en/) since 2013 and a former board member of the [Swiss Science Olympiad](https://science.olympiad.ch/en). I was **academic director** of the Swiss Mathematical Olympiad from 2017 to 2022 and I've worked on various problem selection committees (IMO, PAMO, OFM). 
+
+I'm currently a member of the OFM board and of the Curriculum Review Committee of the IMO.
 
 I was myself contestant for [Switzerland](https://www.imo-official.org/country_team_r.aspx?code=SUI) at the IMO 2013 (HM) and at MEMO 2012. Since then, I have been team leader and coordinator on several occasions. 
 
@@ -18,6 +20,7 @@ I was myself contestant for [Switzerland](https://www.imo-official.org/country_t
 - MEMO 2022: chief coordinator
 - MEMO 2015: deputy leader
 - EGMO 2017, 2023: coordinator
+- PAMO 2024: problem selection committee and coordinator 
 - BxMO 2018: coordinator
 
 My favourite Olympiad topic is algebra.
