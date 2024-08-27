@@ -10,11 +10,11 @@ redirect_from:
 
 ## About me
 
-I am an FSMP postdoctoral researcher of mathematics at [Sorbonne Université](https://www.sorbonne-universite.fr/en) in the group [Analyse complexe et Géométrie](https://www.imj-prg.fr/acg/) under the supervision of [Julien Marché](https://webusers.imj-prg.fr/~julien.marche/).
+I'm currently an FSMP postdoctoral researcher of mathematics at [Sorbonne Université](https://www.sorbonne-universite.fr/en) in the group [Analyse complexe et Géométrie](https://www.imj-prg.fr/acg/) under the supervision of [Julien Marché](https://webusers.imj-prg.fr/~julien.marche/).
+
+Starting from November 2024, I'll be joining the reserach group of [Nalini Anantharaman](https://irma.math.unistra.fr/~anantharaman/) at the Université de Strasbourg.
 
 I completed my PhD at the [University of Heidelberg](https://www.uni-heidelberg.de/) in Germany under the direction of [Peter Albers](https://www.mathi.uni-heidelberg.de/~palbers/) and [Anna Wienhard](https://www.mathi.uni-heidelberg.de/~wienhard/) in July 2022.
-
-**I am currently on the job market to start a new position in the fall 2024.**
 
 Research areas that particularly motivate me include representations of surface groups and character varieties, (higher) Teichmüller Theory, symplectic geometry, (complex)
 hyperbolic geometry, and dynamics on character varieties.
