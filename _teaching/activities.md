@@ -8,9 +8,9 @@ redirect_from:
   - /teaching
 ---
 
-Here is a list of scientific events I'm planning to attend in the spring of 2024:
-  - [Conference](https://math.univ-cotedazur.fr/~jtoulisse/conf/autrans2024.html) on Submanifolds of locally symmetric spaces: geometric, analytic and dynamical aspects, Autrans, France.
-  - In May I'll be traveling to Seoul National University to visit [Gye-Seon Lee](https://www.math.snu.ac.kr/~gyeseonlee/).
+Here is a list of scientific events I'm planning to attend in the summer and fall of 2024:
+  - [Workshop](https://sites.google.com/view/componentsinaussois/home) Components of Character Varieties, Aussois, France.
+  - [Conference](https://www.mis.mpg.de/events/series/20-years-of-anosov-representations) 20 years of Anosov representations, Leipzig, Germany.
 
 # Selected talks
   - *Complex Projective Spaces Via Surface Groups Representations*, Symplectic Zoominar, Institute for advanced studies [(video)](https://www.youtube.com/watch?v=Kfv6A3Av9Cg&t=572s).
@@ -22,13 +22,16 @@ Here is a list of scientific events I'm planning to attend in the spring of 2024
 
 # Past workshops, seminars, and research stays
 
+### 2024
+  - I had the pleasure to visit Gye-Seon Lee at the National University of Seoul in May 2024.
+
 ### 2023
   - [Workshop](https://sites.google.com/view/frejus-2023/home): Metrics on higher Teichmüller spaces (Fréjus, France, August 2023)
   - [Summer schhol](https://sites.google.com/view/symmetricspaces2023): Geometry of Locally Symmetric Spaces (Montevideo, Uruguay, February 2023)
   - [Workshop](http://arnaudmaret.github.io/cluster): Interplay between symplectic geometry and cluster theory (IWH, Heidelberg, January 2023)
   
 ### 2022
-  - I had the pleasure to visit Bill Goldman at the university of Maryland in September 2022.
+  - I had the pleasure to visit Bill Goldman at the University of Maryland in September 2022.
   - [Workshop](http://arnaudmaret.github.io/positivity): Positivity in Lie Groups (IWH, Heidelberg, January 2022)
  
 ### 2021
