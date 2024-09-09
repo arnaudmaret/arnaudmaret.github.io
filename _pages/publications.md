@@ -12,11 +12,12 @@ Here is a list of my *published* research papers:
 
 Here is a list of my *preprints*:
 
-- *The geometry of Deroin-Tholozan representations*, with A. Fenyes, 2023. Available [here](https://arxiv.org/abs/2312.09199).
+- *Tykhyy's Conjecture on finite mapping class group orbits*, with [S. Bronstein](https://sites.google.com/view/samuelbronstein), 2024. Available [here](https://arxiv.org/abs/2409.04379).
+- *The geometry of Deroin-Tholozan representations*, with [A. Fenyes](https://ooo.fareycircles.ooo/), 2023. Available [here](https://arxiv.org/abs/2312.09199).
 
 Here is a list of notes I edited:
 
-- *Proceedings of the Young Researchers Workshop on Positivity in Lie Groups*, with X. Flamm, 2022. Available [here](http://arnaudmaret.github.io/files/theta_positivity_proceedings.pdf).
+- *Proceedings of the Young Researchers Workshop on Positivity in Lie Groups*, with [X. Flamm](https://www.ihes.fr/~/flamm/), 2022. Available [here](http://arnaudmaret.github.io/files/theta_positivity_proceedings.pdf).
 - *A note on character varieties*, 2022. Available [here](https://arnaudmaret.com/files/character-varieties.pdf).
 
 Here is a link to my PhD thesis:
