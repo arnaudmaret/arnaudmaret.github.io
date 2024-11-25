@@ -34,7 +34,7 @@ Here is a list of notes I edited:
   **Abstract:** These notes transcribe a workshop about the notion of total positivity and $\Theta$-positivity and its relation to Higher Teichmüller Theory. $\Theta$-positivity is a notion of positivity in semisimple Lie groups and was recently introduced by Guichard and Wienhard as a generalization of Lusztig's total positivity. It is believed to be the cathartic notion to classify higher Teichmüller spaces. Without doubt, substantial progress will be achieved in the near future on the study of $\Theta$-positive structures. These notes provide an account of the state of the art as of 2021.
 - **A note on character varieties**, available [here](https://arnaudmaret.com/files/character-varieties.pdf) (will be regularly updated).
   
-  **Abstract:** These notes1 are an extended version of a series of mini-courses that I gave in the spring of
+  **Abstract:** These notes are an extended version of a series of mini-courses that I gave in the spring of
 2022 at the KIT Karlsruhe and at the University of Heidelberg and in the spring of 2024 at Seoul
 National University. The main objective is to introduce the notions of representation varieties and
 character varieties from the perspective of both differential geometry and algebraic geometry. It is
