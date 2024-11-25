@@ -7,8 +7,11 @@ author_profile: true
 
 Here is a list of my *published* research papers:
 
-- *Ergodicity of the mapping class group action on Deroin-Tholozan representations*. Groups Geom. Dyn. 16 (2022), 1341–1368. Available [here](https://arxiv.org/pdf/2012.05775.pdf).
-- *Action-angle coordinates for surface group representations in genus zero*, 2022, to appear in in J. Symplectic Geom. Available [here](https://arxiv.org/pdf/2110.13896.pdf).
+2. **Action-angle coordinates for surface group representations in genus zero**, J. Symplectic Geom. (2024). [[arXiv:2110.13896]](https://arxiv.org/pdf/2110.13896)
+   **Abstract:** We study a compact family of totally elliptic representations of the fundamental group of a punctured sphere into PSL(2,R) discovered by Deroin and Tholozan and named after them. We describe a polygonal model that parametrizes the relative character variety of Deroin--Tholozan representations in terms of chains of triangles in the hyperbolic plane. We extract action-angle coordinates from our polygonal model as geometric quantities associated to chains of triangles. The coordinates give an explicit isomorphism between the space of representations and the complex projective space. We prove that they are almost global Darboux coordinates for the Goldman symplectic form.
+1. **Ergodicity of the mapping class group action on Deroin-Tholozan representations**. Groups Geom. Dyn. (2022). [[arXiv:2012.05775 ]](https://arxiv.org/pdf/2012.05775.pdf)
+   **Abstract:** This note investigates the dynamics of the mapping class group action on the character variety of super-maximal representations of the fundamental group of a punctured sphere into PSL(2,R), discovered by Deroin and Tholozan. We apply symplectic methods developed by Goldman and Xia to prove that the action is ergodic. 
+
 
 Here is a list of my *preprints*:
 
