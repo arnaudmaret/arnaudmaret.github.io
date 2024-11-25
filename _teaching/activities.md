@@ -8,22 +8,21 @@ redirect_from:
   - /teaching
 ---
 
-Here is a list of scientific events I'm planning to attend in the summer and fall of 2024:
-  - [Workshop](https://sites.google.com/view/componentsinaussois/home) Components of Character Varieties, Aussois, France.
-  - [Conference](https://www.mis.mpg.de/events/series/20-years-of-anosov-representations) 20 years of Anosov representations, Leipzig, Germany.
-
+Here is a list of scientific events I'm planning to attend in the spring of 2025:
+  - Workshop on Berkovich geometry and character varities organized by [Vlerë Mehmeti](https://webusers.imj-prg.fr/~vlere.mehmeti/) (January 2025).
+  - [Semester program at the IHP](https://indico.math.cnrs.fr/event/11551/overview) about higher rank geometric structures (May-June 2025).
+    
 # Selected talks
-  - *Complex Projective Spaces Via Surface Groups Representations*, Symplectic Zoominar, Institute for advanced studies [(video)](https://www.youtube.com/watch?v=Kfv6A3Av9Cg&t=572s).
-  - *The two natures of components of character varieties*, Topology Seminar, University of Iowa [(slides)](http://arnaudmaret.github.io/files/talk-iowa.pdf).
-  - *On remarkable representations of the fundamental group of a punctured sphere into PSL(2,R)*, Topology Seminar, University of Bristol [(slides)](http://arnaudmaret.github.io/files/talk-bristol.pdf).
-
-# Lecture notes
-  - **RTG Lecture** *Character varieties -- a symplectic perspective*, University of Heidelberg and KIT Karlsruhe [(notes)](http://arnaudmaret.github.io/character-varieties).  
+  - **Complex Projective Spaces Via Surface Groups Representations**, Symplectic Zoominar, Institute for advanced studies [(video)](https://www.youtube.com/watch?v=Kfv6A3Av9Cg&t=572s).
+  - **The two natures of components of character varieties**, Topology Seminar, University of Iowa [(slides)](http://arnaudmaret.github.io/files/talk-iowa.pdf).
+  - **On remarkable representations of the fundamental group of a punctured sphere into $\mathrm{PSL}(2,\mathbb{R})$**, Topology Seminar, University of Bristol [(slides)](http://arnaudmaret.github.io/files/talk-bristol.pdf).
 
 # Past workshops, seminars, and research stays
 
 ### 2024
   - I had the pleasure to visit Gye-Seon Lee at the National University of Seoul in May 2024.
+  - [Workshop](https://sites.google.com/view/componentsinaussois/home) Components of Character Varieties, Aussois, France.
+  - [Conference](https://www.mis.mpg.de/events/series/20-years-of-anosov-representations) 20 years of Anosov representations, Leipzig, Germany.
 
 ### 2023
   - [Workshop](https://sites.google.com/view/frejus-2023/home): Metrics on higher Teichmüller spaces (Fréjus, France, August 2023)
