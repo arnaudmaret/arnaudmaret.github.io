@@ -17,7 +17,7 @@ Here is a list of my *published* research papers:
 
 Here is a list of my *preprints*:
 
-6. **Totally elliptic surface group representations**. (available here)
+6. **Totally elliptic surface group representations**, available here.
 
    **Abstract:** We characterize all totally elliptic surface group representations into $\mathrm{PSL}(2,\mathbb{R})$ by showing that they are either representations into a compact subgroup or Deroin--Tholozan representations.
 
