@@ -20,7 +20,6 @@ Here is a list of my *preprints*:
 6. **Totally elliptic surface group representations**, available here.
 
    **Abstract:** We characterize all totally elliptic surface group representations into $\mathrm{PSL}(2,\mathbb{R})$ by showing that they are either representations into a compact subgroup or Deroin--Tholozan representations.
-
 5. **Mapping class group orbit closures for Deroin-Tholozan representations**, with [Y. Bouilly](https://sites.google.com/site/yohannbouilly/home), [G. Faraco](https://sites.google.com/view/gianluca-faraco) (2024). [[arXiv:2411.10269]](https://arxiv.org/pdf/2411.10269)
    
    **Abstract:**  We prove that infinite mapping class group orbits are dense in the character variety of Deroin--Tholozan representations. In other words, the action is minimal except for finite orbits. Our arguments rely on the symplectic structure of the character variety, emphasizing this geometric perspective over its algebraic properties. 
