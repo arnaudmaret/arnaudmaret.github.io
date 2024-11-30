@@ -9,7 +9,7 @@ redirect_from:
 
 ## About me
 
-I'm currently a postdoc in the reserach group of [Nalini Anantharaman](https://irma.math.unistra.fr/~anantharaman/) at the Université de Strasbourg.
+I am currently a postdoc in the reserach group of [Nalini Anantharaman](https://irma.math.unistra.fr/~anantharaman/) at the Université de Strasbourg.
 
 Until November 2024, I was an FSMP postdoc at [Sorbonne Université](https://www.sorbonne-universite.fr/en) in the group [Analyse complexe et Géométrie](https://www.imj-prg.fr/acg/) under the supervision of [Julien Marché](https://webusers.imj-prg.fr/~julien.marche/).
 
