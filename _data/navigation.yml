@@ -21,7 +21,7 @@ main:
   #- title: "Guide"
     #url: /markdown/
 
-   - title: "Lecture: Character varieties"
+  - title: "Lecture: Character varieties"
     url: /character-varieties/
   
   - title: "Workshop: Cluster structures in symplectic geometry"
