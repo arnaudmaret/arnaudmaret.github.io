@@ -17,7 +17,7 @@ Here is a list of my *published* research papers:
 
 Here is a list of my *preprints*:
 
-6. **Totally elliptic surface group representations** (2024). [[arXiv:submit/6034192]](https://arnaudmaret.com/files/paper-totally-elliptic.pdf)
+6. **Totally elliptic surface group representations** (2024). [[arXiv:2411.19748]](https://arxiv.org/pdf/2411.19748)
 
    **Abstract:** We characterize all totally elliptic surface group representations into $\mathrm{PSL}(2,\mathbb{R})$ by showing that they are either representations into a compact subgroup or Deroin--Tholozan representations.
 5. **Mapping class group orbit closures for Deroin-Tholozan representations**, with [Y. Bouilly](https://sites.google.com/site/yohannbouilly/home), [G. Faraco](https://sites.google.com/view/gianluca-faraco) (2024). [[arXiv:2411.10269]](https://arxiv.org/pdf/2411.10269)
