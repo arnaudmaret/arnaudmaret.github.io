@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Cours: Intégrales multiples, curviligne et surfacique"
+title: "Cours: Intégrales multiples, curvilignes et surfaciques"
 permalink: /integrales/
 author_profile: true
 ---
@@ -11,22 +11,18 @@ Cours magistral & TD -- Printemps 2025
 
 IRMA, Université de Strasbourg
 
-# Abstract
+# Résumé
 
-The goal of this minicourse is to introduce the notion of character variety. A character variety is, broadly speaking, a construction that associates a symplectic manifold to a surface and a Lie group. It comes with a natural action of the mapping class group of the surface that preserves its symplectic structure.
+L'objectif de cours est d'apprendre à calculer certaines intégrales en plusieurs variables, de même que des intégrales le long de courbes et de surfaces. On y découvrira également certains théorèmes célèbres comme le théorème de Green--Riemann et celui de Stokes. Le but est également de comprendre le lien entre le calcul d'intégral et les problèmes de la vie réelle: en quoi être capable de calculer une intégrale peut-il me permettre de résoudre certains problèmes ?
 
-The minicourse will introduce all relevant notions and will, in particular, not assume any particular knowledge on symplectic geometry or mapping class groups. We will provide reminders on relevant notions of Lie theory, algebraic/analytic varieties and group cohomology.
+# Programme
 
-# Lecture notes
+Les cours magistraux ont lieu une semaine sur deux (en général) le mercredi de 14:00 à 16:00. Les TD ont en principe lieu le vendredi matin et le mercredi après-midi lorsqu'il n'y a pas de cours magistral.
 
-[Here](http://arnaudmaret.github.io/files/character-varieties.pdf) is an extended version of the material that I will present in the lecture. These notes are a first draft and are meant to be updated in the future. 
+Il y aura deux contrôles continus et un examen final.
 
-_Any comment or correction is always welcome!_
+Cours 1 (29.01.25): Rappels sur l'intégrale unidimensionnelle.
 
-# Schedule
+# TD
 
-Lecture 1 (26.04.22): Short recap on Lie groups (introducing quadrable Lie groups) and surface groups. Definition of representation variety and its structure. Computation of Zariski tangent spaces.
-
-Lecture 2 (10.05.22): Brief recap on group cohomology and symplectic geometry. Definition of the Goldman symplectic form.
-
-Lecture 3 (21.06.22): Introduce mapping class groups and their action on character varieties.
+Feuille d'exercices 1: coming soon!
