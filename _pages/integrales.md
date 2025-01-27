@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+**L2 STUE : Mathématiques 4**
+
 Cours magistral & TD -- Printemps 2025
 
 IRMA, Université de Strasbourg
