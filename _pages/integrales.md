@@ -23,7 +23,7 @@ Les cours magistraux ont lieu une semaine sur deux (en général), le mercredi d
 
 Il y aura deux contrôles continus et un examen final.  
 
-**Cours 1 (29/01/2025) :** Rappels sur l'intégrale unidimensionnelle.  
+**Cours 1 (29/01/2025) :** Rappels sur l'intégrale unidimensionnelle (Chap. 1), défintions des intégrales doubles et triples (Chap 2, 2.1 & 2.2). [[Notes de cours]](http://arnaudmaret.github.io/files/cours-1.pdf) 
 
 # TD  
 
