@@ -25,6 +25,8 @@ Il y aura deux contrôles continus et un examen final.
 
 **Cours 1 (29/01/2025) :** Rappels sur l'intégrale unidimensionnelle (Chap. 1), défintions des intégrales doubles et triples (Chap 2, 2.1 & 2.2). [[Notes de cours]](http://arnaudmaret.github.io/files/cours-1.pdf) 
 
+**Cours 2 (05/02/2025) :** Interprétations des intégrales multiples (2.3), intégration en tranches (2.4) et changements de coordonnées polaires & cylindriques (2.5). [[Notes de cours]](http://arnaudmaret.github.io/files/cours-2.pdf) 
+
 # TD  
 
 **TD1 (14/02/2025) :** [TD 1](http://arnaudmaret.github.io/files/TD1.pdf)  
