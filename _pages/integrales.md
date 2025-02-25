@@ -21,7 +21,7 @@ L'objectif de ce cours est d'apprendre à calculer certaines intégrales en plus
 
 Les cours magistraux ont lieu une semaine sur deux (en général), le mercredi de 14 h 00 à 16 h 00. Les TD ont lieu chaque semaine; en principe, le vendredi matin et le mercredi après-midi lorsqu'il n'y a pas de cours magistral.  
 
-Il y aura deux contrôles continus et un examen final.  
+Il y aura deux contrôles continus de 30 minutes (le 5 mars à 14:00 et le 2 avril à 10:15) et un examen final de 2 heures (le 30 avril à 14:00).  
 
 **Cours 1 (29/01/2025) :** Rappels sur l'intégrale unidimensionnelle (Chap. 1), défintions des intégrales doubles et triples (Chap 2, 2.1 & 2.2). [[Notes de cours]](http://arnaudmaret.github.io/files/cours-1.pdf) 
 
@@ -31,4 +31,6 @@ Il y aura deux contrôles continus et un examen final.
 
 **TD1 (14/02/2025) :** [TD 1](http://arnaudmaret.github.io/files/TD1.pdf)  
 *(version mise à jour le 13/02/2025: nouvelles bornes dans les intégrales 5 & 6 de l'exercice 3 et légère modification de l'énoncé de l'exercice 4)*
+
+**TD2 (28/02/2025) :** [TD 2](http://arnaudmaret.github.io/files/TD2.pdf)  
 
