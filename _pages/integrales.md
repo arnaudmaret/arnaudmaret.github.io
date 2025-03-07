@@ -33,3 +33,6 @@ Il y aura deux contrôles continus de 30 minutes (le 5 mars à 14:00 et le 2 avr
 *(version mise à jour le 13/02/2025: nouvelles bornes dans les intégrales 5 & 6 de l'exercice 3 et légère modification de l'énoncé de l'exercice 4)*
 
 **TD2 (28/02/2025) :** [TD 2](http://arnaudmaret.github.io/files/TD2.pdf)
+*(version mise à jour le 7/03/2025: nouvelle fonction à intégrer dans l'exercice 5*
+
+**TD3 (14/03/2025) :** [TD 3](http://arnaudmaret.github.io/files/TD3.pdf)
