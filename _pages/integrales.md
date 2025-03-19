@@ -29,7 +29,7 @@ Il y aura deux contrôles continus de 30 minutes (le 5 mars à 14:00 et le 2 avr
 
 **Cours 3 (26/02/2025) :** Changements de coordonnées sphériques (2.5) et intégrale curviligne le long de chemins (3.1 et 3.2). [[Notes de cours]](http://arnaudmaret.github.io/files/cours-3.pdf) 
 
-**Cours 4 (13/03/2025) :** Circulation d'un champs de vecteurs (3.3) et intégrales surfaciques (Chap. 4). [[Notes de cours]](http://arnaudmaret.github.io/files/cours-4.pdf) 
+**Cours 4 (13/03/2025) :** Circulation d'un champ de vecteurs (3.3) et intégrales surfaciques (Chap. 4). [[Notes de cours]](http://arnaudmaret.github.io/files/cours-4.pdf) 
 
 # TD  
 
