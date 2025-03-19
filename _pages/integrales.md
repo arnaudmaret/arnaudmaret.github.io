@@ -40,3 +40,6 @@ Il y aura deux contrôles continus de 30 minutes (le 5 mars à 14:00 et le 2 avr
 *(version mise à jour le 7/03/2025: nouvelle fonction à intégrer dans l'exercice 5*
 
 **TD3 (14/03/2025) :** [TD 3](http://arnaudmaret.github.io/files/TD3.pdf)
+*(version mise à jour le 19/03/2025: nouvelle fonction à intégrer dans l'item 3 de l'exercice 5*
+
+**TD4 (21/03/2025) :** [TD 4](http://arnaudmaret.github.io/files/TD4.pdf)
