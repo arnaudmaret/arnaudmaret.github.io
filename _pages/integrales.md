@@ -31,6 +31,8 @@ Il y aura deux contrôles continus de 30 minutes (le 5 mars à 14:00 et le 2 avr
 
 **Cours 4 (13/03/2025) :** Circulation d'un champ de vecteurs (3.3) et intégrales surfaciques (Chap. 4). [[Notes de cours]](http://arnaudmaret.github.io/files/cours-4.pdf) 
 
+**Cours 5 (26/03/2025) :** Le théorème de Green et ses applications (Chap. 5). [[Notes de cours]](http://arnaudmaret.github.io/files/cours-5.pdf) 
+
 # TD  
 
 **TD1 (14/02/2025) :** [TD 1](http://arnaudmaret.github.io/files/TD1.pdf)  
@@ -38,6 +40,7 @@ Il y aura deux contrôles continus de 30 minutes (le 5 mars à 14:00 et le 2 avr
 
 **TD2 (28/02/2025) :** [TD 2](http://arnaudmaret.github.io/files/TD2.pdf)
 *(version mise à jour le 7/03/2025: nouvelle fonction à intégrer dans l'exercice 5)*
+*(version re-mise à jour le 26/03/2025: légère modification de l'énoncé de l'exercice 4)*
 
 **TD3 (14/03/2025) :** [TD 3](http://arnaudmaret.github.io/files/TD3.pdf)
 *(version mise à jour le 19/03/2025: nouvelle fonction à intégrer dans l'item 3 de l'exercice 5)*
