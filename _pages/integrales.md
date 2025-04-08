@@ -23,6 +23,10 @@ Les cours magistraux ont lieu une semaine sur deux (en général), le mercredi d
 
 Il y aura deux contrôles continus de 30 minutes (le 5 mars à 14:00 et le 2 avril à 10:15) et un examen final de 2 heures (le 30 avril à 14:00).  
 
+# Cours
+
+Les notes de cours sont disponibles en seul fichier [ici](http://arnaudmaret.github.io/files/cours.pdf).
+
 **Cours 1 (29/01/2025) :** Rappels sur l'intégrale unidimensionnelle (Chap. 1), défintions des intégrales doubles et triples (Chap 2, 2.1 & 2.2). [[Notes de cours]](http://arnaudmaret.github.io/files/cours-1.pdf) 
 
 **Cours 2 (05/02/2025) :** Interprétations des intégrales multiples (2.3), intégration en tranches (2.4) et changements de coordonnées polaires & cylindriques (2.5). [[Notes de cours]](http://arnaudmaret.github.io/files/cours-2.pdf) 
@@ -34,8 +38,6 @@ Il y aura deux contrôles continus de 30 minutes (le 5 mars à 14:00 et le 2 avr
 **Cours 5 (26/03/2025) :** Le théorème de Green et ses applications (Chap. 5). [[Notes de cours]](http://arnaudmaret.github.io/files/cours-5.pdf)
 
 **Cours 6 (09/04/2025) :** Le théorème de Stokes (Chap. 6). [[Notes de cours]](http://arnaudmaret.github.io/files/cours-6.pdf) 
-
-Les notes de cours sont disponibles en seul fichier [ici](http://arnaudmaret.github.io/files/cours.pdf).
 
 # TD  
 
@@ -52,4 +54,6 @@ Les notes de cours sont disponibles en seul fichier [ici](http://arnaudmaret.git
 **TD4 (21/03/2025) :** [TD 4](http://arnaudmaret.github.io/files/TD4.pdf)
 *(version mise à jour le 25/03/2025: modification de certains coefficients dans l'exercice 6)*
 
-**TD5 (10/05/2025) :** [TD 5](http://arnaudmaret.github.io/files/TD5.pdf)
+**TD5 (10/04/2025) :** [TD 5](http://arnaudmaret.github.io/files/TD5.pdf)
+
+**TD6 (23/04/2025) :** 
