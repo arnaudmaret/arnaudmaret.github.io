@@ -55,5 +55,6 @@ Les notes de cours sont disponibles en seul fichier [ici](http://arnaudmaret.git
 *(version mise à jour le 25/03/2025: modification de certains coefficients dans l'exercice 6)*
 
 **TD5 (10/04/2025) :** [TD 5](http://arnaudmaret.github.io/files/TD5.pdf)
+*(version mise à jour le 10/04/2025: corrections de coquilles dans les exercices 5 et 7)*
 
 **TD6 (23/04/2025) :** 
