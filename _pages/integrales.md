@@ -39,7 +39,9 @@ Les notes de cours sont disponibles en seul fichier [ici](http://arnaudmaret.git
 
 **Cours 6 (09/04/2025) :** Le théorème de Stokes (Chap. 6). [[Notes de cours]](http://arnaudmaret.github.io/files/cours-6.pdf) 
 
-# TD  
+# TD
+
+Toutes questions sur les exercices des TD peuvent m'être adressées directement par e-mail. J'y répondrai dans le mesure du possible.
 
 **TD1 (14/02/2025) :** [TD 1](http://arnaudmaret.github.io/files/TD1.pdf)
 *(version mise à jour le 13/02/2025: nouvelles bornes dans les intégrales 5 & 6 de l'exercice 3 et légère modification de l'énoncé de l'exercice 4)*
@@ -58,3 +60,4 @@ Les notes de cours sont disponibles en seul fichier [ici](http://arnaudmaret.git
 *(version mise à jour le 10/04/2025: corrections de coquilles dans les exercices 5 et 7)*
 
 **TD6 (23/04/2025) :** [TD 6](http://arnaudmaret.github.io/files/TD6.pdf)
+*(version mise à jour le 28/04/2025: corrections de coquilles dans l'exercice 8)*
