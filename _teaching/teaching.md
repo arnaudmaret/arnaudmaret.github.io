@@ -11,9 +11,7 @@ redirect_from:
 ## University lectures
 
 ### 2025
- - (University of Strasbourg) Multiple, line and surface integrals (with exercises class) [[web page]](https://arnaudmaret.com/integrales/) [[notes]](https://arnaudmaret.com/files/cours.pdf)
-
-   Language : FR, Students : 69, Level : Bachelor (L2)
+ - (University of Strasbourg) Multiple, line and surface integrals (with exercises class) [[web page]](https://arnaudmaret.com/integrales/) [[notes]](https://arnaudmaret.com/files/cours.pdf)\ Language : FR, Students : 69, Level : Bachelor (L2)
 
 ## Minicourses
 
