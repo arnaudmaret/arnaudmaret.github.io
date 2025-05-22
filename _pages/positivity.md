@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-The proceedings of the workshop have been edited and are available [here](http://arnaudmaret.github.io/files/theta_positivity_proceedings.pdf).
+The proceedings of the workshop have been edited and are available [here](https://arxiv.org/pdf/2212.04339).
 
 ### what? 
 The aim of this workshop was to understand the notion of total positivity and Theta-positivity and how it relates to Higher Teichmüller theory. Theta-positivity is a notion of positivity in semisimple Lie groups and was recently introduced by Guichard and Wienhard in [Positivity and higher Teichmüller theory](https://arxiv.org/abs/1802.02833) as a generalization of Lusztig's total positivity.
