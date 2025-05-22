@@ -1,23 +1,58 @@
 ---
 layout: archive
-permalink: /activities/
-title: "Activities"
-excerpt: "Activities"
+permalink: /teaching/
+title: "Teaching"
+excerpt: "Teaching"
 author_profile: true
 redirect_from: 
   - /teaching
 ---
 
-Here is a list of scientific events I'm planning to attend in the spring of 2025:
-  - Workshop on Berkovich geometry and character varities organized by [Vlerë Mehmeti](https://webusers.imj-prg.fr/~vlere.mehmeti/) (January 2025).
-  - [Semester program at the IHP](https://indico.math.cnrs.fr/event/11551/overview) about higher rank geometric structures (May-June 2025).
+## University lectures
+
+### 2025
+ - (University of Strasbourg) Multiple, line and surface integrals (with exercises class) [web page](https://arnaudmaret.com/integrales/) [notes](https://arnaudmaret.com/files/cours.pdf)
+   Language : FR, Students : 69, Level : Bachelor (L2)
+
+## Minicourses
+
+### 2024
+ - (Seoul National University) Dynamics on character varieties [notes](https://arnaudmaret.com/files/character-varieties.pdf)
+
+### 2022
+ - (Heidelberg University and KIT Karlsruhe) Character varieties with a symplectic perspective [web page](https://arnaudmaret.com/character-varieties/) [notes](https://arnaudmaret.com/files/character-varieties.pdf)
+
+## Student seminars and exercise classes
+
+### 2020
+ - (University of Heidelberg) Student seminar on hyperbolic geometry
+   Language : DE, Students : 14, Level : Bachelor
+
+### 2018
+ - (University of Heidelberg) Student seminar on differential geometry
+   Language : DE, Students : 14, Level : Bachelor
+ - (ETH Zurich) Probability and statistic (TA)
+   Language : EN, Students : 20, Level : Bachelor
+
+### 2015 
+ - (EPF Lausanne) Analysis 2 (TA)
+   Language : FR, Students : 10, Level : Bachelor
+
+### 2014 
+ - (EPF Lausanne) Analysis 1 (TA)
+   Language : FR, Students : 10, Level : Bachelor
     
 # Selected talks
   - **Complex Projective Spaces Via Surface Groups Representations**, Symplectic Zoominar, Institute for advanced studies [(video)](https://www.youtube.com/watch?v=Kfv6A3Av9Cg&t=572s).
   - **The two natures of components of character varieties**, Topology Seminar, University of Iowa [(slides)](http://arnaudmaret.github.io/files/talk-iowa.pdf).
   - **On remarkable representations of the fundamental group of a punctured sphere into $\mathrm{PSL}(2,\mathbb{R})$**, Topology Seminar, University of Bristol [(slides)](http://arnaudmaret.github.io/files/talk-bristol.pdf).
 
+<!--
 # Past workshops, seminars, and research stays
+
+### 2025
+  - Workshop on Berkovich geometry and character varities organized by [Vlerë Mehmeti](https://webusers.imj-prg.fr/~vlere.mehmeti/) (January 2025).
+  - [Semester program at the IHP](https://indico.math.cnrs.fr/event/11551/overview) about higher rank geometric structures (May-June 2025).
 
 ### 2024
   - I had the pleasure to visit Gye-Seon Lee at the National University of Seoul in May 2024.
@@ -37,7 +72,6 @@ Here is a list of scientific events I'm planning to attend in the spring of 2025
   - [Workshop](http://arnaudmaret.github.io/files/plan-complex-dynamics.pdf): Dynamics in one complex variable (RTG Seminar, Heidelberg, March 2021)
   - [Seminar](https://www.mathi.uni-heidelberg.de/~pozzetti/stability.html): Bridgeland's stability conditions for meromorphic differentials (with B. Pozzetti)
 
-<!--
 ### 2020
   - [Workshop](http://arnaudmaret.github.io/files/plan-k-theory.pdf): Topological K-Theory (RTG Seminar, Heidelberg, October 2020)
 
