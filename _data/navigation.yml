@@ -9,6 +9,9 @@ main:
   - title: "Teaching"
     url: /teaching/ 
 
+  - title: "Activities"
+    url: /activities/ 
+
   - title: "CV"
     url: /cv/
     
@@ -20,16 +23,16 @@ main:
     
   #- title: "Guide"
     #url: /markdown/
-  - title: "Cours: Intégrales"
-    url: /integrales/
+  #- title: "Cours: Intégrales"
+    #url: /integrales/
   
-  - title: "Lecture: Character varieties"
-    url: /character-varieties/
+  #- title: "Lecture: Character varieties"
+    #url: /character-varieties/
   
-  - title: "Workshop: Cluster structures in symplectic geometry"
-    url: /cluster/
+  #- title: "Workshop: Cluster structures in symplectic geometry"
+    #url: /cluster/
         
-  - title: "Workshop: Positivity in Lie Groups"
-    url: /positivity/
+  #- title: "Workshop: Positivity in Lie Groups"
+    #url: /positivity/
 
   
