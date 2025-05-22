@@ -11,35 +11,35 @@ redirect_from:
 ## University lectures
 
 ### 2025
- - (University of Strasbourg) Multiple, line and surface integrals (with exercises class) [[web page]](https://arnaudmaret.com/integrales/) [[notes]](https://arnaudmaret.com/files/cours.pdf) <br />
+ - (University of Strasbourg) **Multiple, line and surface integrals** (with exercises class) [[web page]](https://arnaudmaret.com/integrales/) [[notes]](https://arnaudmaret.com/files/cours.pdf) <br />
  *Language : FR, Students : 69, Level : Bachelor (L2)*
 
 ## Minicourses
 
 ### 2024
- - (Seoul National University) Dynamics on character varieties [[notes]](https://arnaudmaret.com/files/character-varieties.pdf)
+ - (Seoul National University) **Dynamics on character varieties** [[notes]](https://arnaudmaret.com/files/character-varieties.pdf)
 
 ### 2022
- - (Heidelberg University and KIT Karlsruhe) Character varieties with a symplectic perspective [[web page]](https://arnaudmaret.com/character-varieties/) [[notes]](https://arnaudmaret.com/files/character-varieties.pdf)
+ - (Heidelberg University and KIT Karlsruhe) **Character varieties with a symplectic perspective** [[web page]](https://arnaudmaret.com/character-varieties/) [[notes]](https://arnaudmaret.com/files/character-varieties.pdf)
 
 ## Student seminars and exercise classes
 
 ### 2020
- - (University of Heidelberg) Student seminar on hyperbolic geometry <br />
+ - (University of Heidelberg) **Student seminar on hyperbolic geometry** <br />
    *Language : DE, Students : 14, Level : Bachelor*
 
 ### 2018
- - (University of Heidelberg) Student seminar on differential geometry <br />
+ - (University of Heidelberg) **Student seminar on differential geometry** <br />
    *Language : DE, Students : 14, Level : Bachelor*
- - (ETH Zurich) Probability and statistic (TA) <br />
+ - (ETH Zurich) **Probability and statistic** (TA) <br />
    *Language : EN, Students : 20, Level : Bachelor*
 
 ### 2015 
- - (EPF Lausanne) Analysis 2 (TA) <br />
+ - (EPF Lausanne) **Analysis 2** (TA) <br />
    *Language : FR, Students : 10, Level : Bachelor*
 
 ### 2014 
- - (EPF Lausanne) Analysis 1 (TA) <br />
+ - (EPF Lausanne) **Analysis 1** (TA) <br />
    *Language : FR, Students : 10, Level : Bachelor*
     
 <!--
