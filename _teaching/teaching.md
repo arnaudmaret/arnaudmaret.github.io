@@ -11,16 +11,16 @@ redirect_from:
 ## University lectures
 
 ### 2025
- - (University of Strasbourg) Multiple, line and surface integrals (with exercises class) [web page](https://arnaudmaret.com/integrales/) [notes](https://arnaudmaret.com/files/cours.pdf)
+ - (University of Strasbourg) Multiple, line and surface integrals (with exercises class) [[web page]](https://arnaudmaret.com/integrales/) [[notes]](https://arnaudmaret.com/files/cours.pdf)
    Language : FR, Students : 69, Level : Bachelor (L2)
 
 ## Minicourses
 
 ### 2024
- - (Seoul National University) Dynamics on character varieties [notes](https://arnaudmaret.com/files/character-varieties.pdf)
+ - (Seoul National University) Dynamics on character varieties [[notes]](https://arnaudmaret.com/files/character-varieties.pdf)
 
 ### 2022
- - (Heidelberg University and KIT Karlsruhe) Character varieties with a symplectic perspective [web page](https://arnaudmaret.com/character-varieties/) [notes](https://arnaudmaret.com/files/character-varieties.pdf)
+ - (Heidelberg University and KIT Karlsruhe) Character varieties with a symplectic perspective [[web page]](https://arnaudmaret.com/character-varieties/) [[notes]](https://arnaudmaret.com/files/character-varieties.pdf)
 
 ## Student seminars and exercise classes
 
