@@ -48,11 +48,6 @@ redirect_from:
 
    Language : FR, Students : 10, Level : Bachelor
     
-# Selected talks
-  - **Complex Projective Spaces Via Surface Groups Representations**, Symplectic Zoominar, Institute for advanced studies [(video)](https://www.youtube.com/watch?v=Kfv6A3Av9Cg&t=572s).
-  - **The two natures of components of character varieties**, Topology Seminar, University of Iowa [(slides)](http://arnaudmaret.github.io/files/talk-iowa.pdf).
-  - **On remarkable representations of the fundamental group of a punctured sphere into $\mathrm{PSL}(2,\mathbb{R})$**, Topology Seminar, University of Bristol [(slides)](http://arnaudmaret.github.io/files/talk-bristol.pdf).
-
 <!--
 # Past workshops, seminars, and research stays
 
