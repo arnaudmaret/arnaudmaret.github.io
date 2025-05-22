@@ -12,6 +12,7 @@ redirect_from:
 
 ### 2025
  - (University of Strasbourg) Multiple, line and surface integrals (with exercises class) [[web page]](https://arnaudmaret.com/integrales/) [[notes]](https://arnaudmaret.com/files/cours.pdf)
+
    Language : FR, Students : 69, Level : Bachelor (L2)
 
 ## Minicourses
@@ -26,20 +27,25 @@ redirect_from:
 
 ### 2020
  - (University of Heidelberg) Student seminar on hyperbolic geometry
+
    Language : DE, Students : 14, Level : Bachelor
 
 ### 2018
  - (University of Heidelberg) Student seminar on differential geometry
+
    Language : DE, Students : 14, Level : Bachelor
  - (ETH Zurich) Probability and statistic (TA)
+
    Language : EN, Students : 20, Level : Bachelor
 
 ### 2015 
  - (EPF Lausanne) Analysis 2 (TA)
+
    Language : FR, Students : 10, Level : Bachelor
 
 ### 2014 
  - (EPF Lausanne) Analysis 1 (TA)
+
    Language : FR, Students : 10, Level : Bachelor
     
 # Selected talks
