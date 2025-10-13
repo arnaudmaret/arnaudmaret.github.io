@@ -7,7 +7,7 @@ author_profile: true
 
 Here is a list of my *published* research papers:
 
-3. *Mapping class group orbit closures for Deroin-Tholozan representations*, with [Y. Bouilly](https://sites.google.com/site/yohannbouilly/home), [G. Faraco](https://sites.google.com/view/gianluca-faraco)
+3. *Mapping class group orbit closures for Deroin-Tholozan representations*, with [Y. Bouilly](https://sites.google.com/site/yohannbouilly/home), [G. Faraco](https://sites.google.com/view/gianluca-faraco) <br>
    **J. Mod. Dyn.** (accepted, 2025). [[arXiv:2411.10269]](https://arxiv.org/pdf/2411.10269)
    
    *Abstract:*  We prove that infinite mapping class group orbits are dense in the character variety of Deroin--Tholozan representations. In other words, the action is minimal except for finite orbits. Our arguments rely on the symplectic structure of the character variety, emphasizing this geometric perspective over its algebraic properties. 
