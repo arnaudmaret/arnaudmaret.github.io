@@ -10,6 +10,10 @@ redirect_from:
 
 ## University lectures
 
+### 2026
+ - (University of Strasbourg) **Multiple, line and surface integrals** (with exercises class) [[web page]](https://arnaudmaret.com/integrales/) [[notes]](https://arnaudmaret.com/files/cours.pdf) <br />
+ *Language : FR, Students : 73, Level : Bachelor (L2)*
+
 ### 2025
  - (University of Strasbourg) **Multiple, line and surface integrals** (with exercises class) [[web page]](https://arnaudmaret.com/integrales/) [[notes]](https://arnaudmaret.com/files/cours.pdf) <br />
  *Language : FR, Students : 69, Level : Bachelor (L2)*
