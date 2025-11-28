@@ -19,7 +19,7 @@ L'objectif de ce cours est d'apprendre à calculer certaines intégrales en plus
 
 # Programme  
 
-Il y aura six séances de 2 heures de CM, et douze séances de 2 heures de TD.  
+Il y aura six séances de 2 heures de CM (le premier CM aura lie le 27/01), et douze séances de 2 heures de TD.  
 
 Il y aura deux contrôles continus de 30 minutes (sans convocation) et un examen final de 2 heures.  
 
