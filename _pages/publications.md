@@ -23,6 +23,12 @@ Here is a list of my *published* research papers:
 
 Here is a list of my *preprints*:
 
+7. *On the symplectic geometry of branched hyperbolic surfaces in genus two*, with [G. Faraco](https://sites.google.com/view/gianluca-faraco) <br>
+   (2025) [Available here](https://arnaudmaret.com/files/paper-branched-hyperbolic-structures.pdf) (will be on arXiv on Dec 1)
+
+   *Abstract:* We construct analogues of Fenchel--Nielsen coordinates on an open and dense subset of the space of holonomies of branched hyperbolic structures on a closed genus-2 surface. We show that these coordinates satisfy an analogue of Wolpert’s magic formula, and thus provide Darboux charts for the Goldman symplectic form. To this end, we revisit the parametrization of hyperbolic structures on a one-holed torus and introduce a simple polygonal model that makes both length and twist parameters transparent. Gluing two such polygons leads to the notion of bow-tie representations of a genus-2 surface group. We prove that bow-tie representations account for most holonomies of branched hyperbolic structures, though not all: for example, Le Fils’ pentagon representations form a real codimension-2 family of holonomies lying outside the bow-tie locus.
+   
+
 6. *Totally elliptic surface group representations* <br>
    (2024) [[arXiv:2411.19748]](https://arxiv.org/pdf/2411.19748)
 
