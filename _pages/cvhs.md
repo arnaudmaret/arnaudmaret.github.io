@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Workshop on Character varieties under the lens of Hodge Theory"
 permalink: /cvhs/
 author_profile: true
 ---
