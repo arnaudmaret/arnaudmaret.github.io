@@ -24,7 +24,7 @@ Leipzig, Germany
 Coming soon!
 
 ## Organisers
-[Samuel Bronstein](https://sites.google.com/view/samuelbronstein) (MPI-MIS)
+[Samuel Bronstein](https://sites.google.com/view/samuelbronstein) (MPI-MIS) <br />
 [Arnaud Maret](https://arnaudmaret.com/) (Strasbourg University)
 
 ## Program
