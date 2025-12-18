@@ -28,7 +28,10 @@ main:
   
   #- title: "Lecture: Character varieties"
     #url: /character-varieties/
-  
+    
+  - title: "Workshop: Character varieties and Hodge theory"
+    url: /cvhs/
+    
   #- title: "Workshop: Cluster structures in symplectic geometry"
     #url: /cluster/
         
