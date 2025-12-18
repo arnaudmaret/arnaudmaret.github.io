@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-![Poster]
+![Poster](http://arnaudmaret.github.io/files/poster-cvhs.png)
 
 The aim of this workshop is to bring together junior and senior researchers in character varieties and Hodge theory, and explore the connections between these two subjects. The workshop will consists of 7 introductory talks of 2.5 hours, as well as 4 research talks of 1 hour. 
 
