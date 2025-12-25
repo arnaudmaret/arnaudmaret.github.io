@@ -8,15 +8,15 @@ author_profile: true
 Here is a list of my *published* research papers:
 
 3. *Mapping class group orbit closures for Deroin-Tholozan representations*, with [Y. Bouilly](https://sites.google.com/site/yohannbouilly/home), [G. Faraco](https://sites.google.com/view/gianluca-faraco) <br>
-   **J. Mod. Dyn.** (accepted, 2025). [[arXiv:2411.10269]](https://arxiv.org/pdf/2411.10269)
+   **J. Mod. Dyn.** (2025). [[J. Mod. Dyn.]](https://www.aimsciences.org/article/doi/10.3934/jmd.2025019) [[arXiv:2411.10269]](https://arxiv.org/pdf/2411.10269)
    
    *Abstract:*  We prove that infinite mapping class group orbits are dense in the character variety of Deroin--Tholozan representations. In other words, the action is minimal except for finite orbits. Our arguments rely on the symplectic structure of the character variety, emphasizing this geometric perspective over its algebraic properties. 
 2. *Action-angle coordinates for surface group representations in genus zero* <br>
-   **J. Symplectic Geom.** (2024). [[arXiv:2110.13896]](https://arxiv.org/pdf/2110.13896)
+   **J. Symplectic Geom.** (2024). [[J. Symplectic Geom.]](https://intlpress.com/JDetail/1852023499362217985) [[arXiv:2110.13896]](https://arxiv.org/pdf/2110.13896)
    
    *Abstract:* We study a compact family of totally elliptic representations of the fundamental group of a punctured sphere into $\mathrm{PSL}(2,\mathbb{R})$ discovered by Deroin and Tholozan and named after them. We describe a polygonal model that parametrizes the relative character variety of Deroin--Tholozan representations in terms of chains of triangles in the hyperbolic plane. We extract action-angle coordinates from our polygonal model as geometric quantities associated to chains of triangles. The coordinates give an explicit isomorphism between the space of representations and the complex projective space. We prove that they are almost global Darboux coordinates for the Goldman symplectic form.
 1. *Ergodicity of the mapping class group action on Deroin-Tholozan representations* <br>
-   **Groups Geom. Dyn.** (2022). [[arXiv:2012.05775]](https://arxiv.org/pdf/2012.05775.pdf)
+   **Groups Geom. Dyn.** (2022). [[Groups Geom. Dyn.]](https://ems.press/content/serial-article-files/30162) [[arXiv:2012.05775]](https://arxiv.org/pdf/2012.05775.pdf)
    
    *Abstract:* This note investigates the dynamics of the mapping class group action on the character variety of super-maximal representations of the fundamental group of a punctured sphere into $\mathrm{PSL}(2,\mathbb{R})$, discovered by Deroin and Tholozan. We apply symplectic methods developed by Goldman and Xia to prove that the action is ergodic. 
 
