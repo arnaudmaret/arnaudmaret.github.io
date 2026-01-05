@@ -21,7 +21,7 @@ You can find the extended abstract of the introductory talks here (coming soon!)
 Leipzig, Germany 
 
 ## Program
-![Timetable](http://arnaudmaret.github.io/files/cvhs-timetable.pdf)
+[Timetable](http://arnaudmaret.github.io/files/cvhs-timetable.pdf)
 
 ## Speakers 
 Coming soon!
