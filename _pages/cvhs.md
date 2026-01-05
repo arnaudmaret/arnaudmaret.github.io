@@ -20,6 +20,9 @@ You can find the extended abstract of the introductory talks here (coming soon!)
 [Max Planck Institute for Mathematics](https://www.mis.mpg.de/)
 Leipzig, Germany 
 
+## Program
+![Timetable](http://arnaudmaret.github.io/files/cvhs-timetable.pdf)
+
 ## Speakers 
 Coming soon!
 
@@ -27,8 +30,7 @@ Coming soon!
 [Samuel Bronstein](https://sites.google.com/view/samuelbronstein) (MPI-MIS) <br />
 [Arnaud Maret](https://arnaudmaret.com/) (Strasbourg University)
 
-## Program
-Coming soon!
+
 
 We gratefully acknowledge funding from 
 
