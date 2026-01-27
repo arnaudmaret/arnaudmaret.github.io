@@ -25,8 +25,12 @@ Il y aura deux contrôles continus de 30 minutes (sans convocation) et un examen
 
 # Cours
 
+**CM1** (27/01) : Rappel sur les intégrales unidimensionnelles [[notes]](http://arnaudmaret.github.io/files/integrales/cours1.pdf)
+
 Les notes de cours de 2025 sont disponibles en seul fichier [ici](http://arnaudmaret.github.io/files/cours.pdf).
 
 # TD
+
+**TD1** (03/02 et 03/03) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD1.pdf)
 
 Toutes questions sur les exercices des TD peuvent m'être adressées directement par e-mail. J'y répondrai dans le mesure du possible.
