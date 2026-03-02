@@ -21,16 +21,20 @@ L'objectif de ce cours est d'apprendre à calculer certaines intégrales en plus
 
 Il y aura six séances de 2 heures de CM (le premier CM aura lie le 27/01), et douze séances de 2 heures de TD.  
 
-Il y aura deux contrôles continus de 30 minutes (sans convocation) et un examen final de 2 heures.  
+Il y aura deux contrôles continus de 30 minutes (sans convocation) et un examen final de 2 heures.
+
+**Mise à jour** : le premier CC aura lieu le 10 mars et le deuxième CC aura lieu le 7 avril.
 
 # Cours
 
 **CM1** (27/01) : Rappel sur les intégrales unidimensionnelles [[notes]](http://arnaudmaret.github.io/files/integrales/cours1.pdf)
+**CM2** (03/03) : Intégrales doubles et triples [[notes]](http://arnaudmaret.github.io/files/integrales/cours2.pdf)
 
 Les notes de cours de 2025 sont disponibles en seul fichier [ici](http://arnaudmaret.github.io/files/cours.pdf).
 
 # TD
 
 **TD1** (03/02 et 03/03) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD1.pdf)
+**TD2** (04-06/03 et 10/03) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD2.pdf)
 
 Toutes questions sur les exercices des TD peuvent m'être adressées directement par e-mail. J'y répondrai dans le mesure du possible.
