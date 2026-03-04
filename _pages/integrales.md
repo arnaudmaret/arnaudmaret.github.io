@@ -23,7 +23,7 @@ Il y aura six séances de 2 heures de CM (le premier CM aura lie le 27/01), et d
 
 Il y aura deux contrôles continus de 30 minutes (sans convocation) et un examen final de 2 heures.
 
-**Mise à jour** : le premier CC aura lieu le 10 mars à 13:30 et le deuxième CC aura lieu le 7 avril à 13:30.
+**Mise à jour** : le premier CC aura lieu le 10 mars à 13:30 (Amphi Terre) et le deuxième CC aura lieu le 7 avril à 13:30 (Amphi Eau).
 
 # Cours
 
