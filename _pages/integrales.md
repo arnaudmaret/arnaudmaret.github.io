@@ -37,6 +37,8 @@ Les notes de cours de 2025 sont disponibles en seul fichier [ici](http://arnaudm
 
 **TD1** (03/02 et 03/03) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD1.pdf) [[solutions]](http://arnaudmaret.github.io/files/integrales/TD1-sol.pdf)
 
-**TD2** (04-06/03 et 10/03) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD2.pdf)
+**TD2** (04-06/03 et 10/03) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD2.pdf) (nouvelle version du 09/03)
+
+**TD3** (17/03 et 24/03) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD3.pdf)
 
 Toutes questions sur les exercices des TD peuvent m'être adressées directement par e-mail. J'y répondrai dans le mesure du possible.
