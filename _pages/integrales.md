@@ -27,9 +27,11 @@ Il y aura deux contrôles continus de 30 minutes (sans convocation) et un examen
 
 # Cours
 
-**CM1** (27/01) : Rappel sur les intégrales unidimensionnelles [[notes]](http://arnaudmaret.github.io/files/integrales/cours1.pdf)
+**CM1** (27/01) : Rappel sur les intégrales unidimensionnelles (1.1-1.2) [[notes]](http://arnaudmaret.github.io/files/integrales/cours1.pdf)
 
-**CM2** (03/03) : Intégrales doubles et triples [[notes]](http://arnaudmaret.github.io/files/integrales/cours2.pdf)
+**CM2** (03/03) : Intégrales doubles et triples (2.1-2.4) [[notes]](http://arnaudmaret.github.io/files/integrales/cours2.pdf)
+
+**CM3** (17/03) : Changements de variables et intégrales curviligne (2.5, 3.1-3.2) [[notes]](http://arnaudmaret.github.io/files/integrales/cours3.pdf)
 
 Les notes de cours de 2025 sont disponibles en seul fichier [ici](http://arnaudmaret.github.io/files/cours.pdf).
 
