@@ -18,4 +18,5 @@ Research areas that particularly motivate me include low dimensional geometry an
 
 In parallel with my work as a researcher, I am also active in the world of Mathematical Olympiad.
 
-**Quick links:** [[notes on character varieties]](https://arnaudmaret.com/files/character-varieties.pdf)
+**Quick links:** [[notes on character varieties]](https://arnaudmaret.com/files/character-varieties.pdf) [[cours Mathématiques 4]](https://arnaudmaret.com/integrales)
+
