@@ -23,7 +23,7 @@ Il y aura six séances de 2 heures de CM (le premier CM aura lie le 27/01), et d
 
 Il y aura deux contrôles continus de 30 minutes (sans convocation) et un examen final de 2 heures.
 
-**Mise à jour** : le premier CC aura lieu le 10 mars à 13:30 (Amphi Terre) et le deuxième CC aura lieu le 7 avril à 13:30 (Amphi Eau).
+**Mise à jour** : le premier CC aura lieu le 10 mars à 13:30 (Amphi Terre) et le deuxième CC aura lieu **le 14 avril à 13:00 (Amphi Rothé)**.
 
 # Cours
 
@@ -31,7 +31,7 @@ Il y aura deux contrôles continus de 30 minutes (sans convocation) et un examen
 
 **CM2** (03/03) : Intégrales doubles et triples (2.1-2.4) [[notes]](http://arnaudmaret.github.io/files/integrales/cours2.pdf)
 
-**CM3** (17/03) : Changements de variables et intégrales curviligne (2.5, 3.1-3.2) [[notes]](http://arnaudmaret.github.io/files/integrales/cours3.pdf)
+**CM3** (17/03) : Changements de variables et intégrales curviligne (2.5, 3.1) [[notes]](http://arnaudmaret.github.io/files/integrales/cours3.pdf)
 
 Les notes de cours de 2025 sont disponibles en seul fichier [ici](http://arnaudmaret.github.io/files/cours.pdf).
 
