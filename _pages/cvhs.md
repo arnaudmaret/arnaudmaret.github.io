@@ -24,6 +24,21 @@ Leipzig, Germany
 ## Program
 [Timetable](http://arnaudmaret.github.io/files/cvhs-timetable.pdf)
 
+## Speakers
+
+- Sophia Bugarija (Humboldt Universität zu Berlin)
+- Farid Diaf (Université de Strasbourg)
+- Jean Douçot (Simion Stoilow Institute of Mathematics)
+- Enya Hsiao (MPI-MIS, Leipzig)
+- Nazim Khelifa (IHES, Paris)
+- Vasily Rogov (MPI-MIS, Leipzig)
+- Junming Zhang (Nankai University)
+
+- Qiongling Li (Nankai University)
+- Marina Logares Jiménez (Instituto de Matemática Interdisciplinar, Madrid)
+- Claudio Meneses (Christian-Albrechts-Universität zu Kiel)
+- Ana Peón-Nieto (Universidade de Santiago de Compostela)
+
 ## Organisers
 [Samuel Bronstein](https://sites.google.com/view/samuelbronstein) (MPI-MIS) <br />
 [Arnaud Maret](https://arnaudmaret.com/) (Strasbourg University)
