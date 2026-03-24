@@ -31,7 +31,9 @@ Il y aura deux contrôles continus de 30 minutes (sans convocation) et un examen
 
 **CM2** (03/03) : Intégrales doubles et triples (2.1-2.4) [[notes]](http://arnaudmaret.github.io/files/integrales/cours2.pdf)
 
-**CM3** (17/03) : Changements de variables et intégrales curviligne (2.5, 3.1) [[notes]](http://arnaudmaret.github.io/files/integrales/cours3.pdf)
+**CM3** (17/03) : Changements de variables et rappels sur les courbes (2.5, 3.1) [[notes]](http://arnaudmaret.github.io/files/integrales/cours3.pdf)
+
+**CM4** (24/03) : Intégrales curvilignes, circulation des champs de vecteurs et définition des intégrales surfaciques (3.2-3.3, 4.1 et 4.2 jusqu'à la Définition 4.9) [[notes]](http://arnaudmaret.github.io/files/integrales/cours3.pdf)
 
 Les notes de cours de 2025 sont disponibles en seul fichier [ici](http://arnaudmaret.github.io/files/cours.pdf).
 
@@ -42,5 +44,8 @@ Les notes de cours de 2025 sont disponibles en seul fichier [ici](http://arnaudm
 **TD2** (04-06/03 et 10/03) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD2.pdf) (nouvelle version du 09/03)
 
 **TD3** (17/03 et 24/03) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD3.pdf) (nouvelle version du 17/03)
+
+**TD4** (31-01/03 et 07/04) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD4.pdf)
+
 
 Toutes questions sur les exercices des TD peuvent m'être adressées directement par e-mail. J'y répondrai dans le mesure du possible.
