@@ -45,7 +45,7 @@ Les notes de cours de 2025 sont disponibles en seul fichier [ici](http://arnaudm
 
 **TD3** (17/03 et 24/03) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD3.pdf) (nouvelle version du 17/03)
 
-**TD4** (31-01/03 et 07/04) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD4.pdf)
+**TD4** (31-01/03 et 07/04) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD4.pdf) [[solution exo 3]](http://arnaudmaret.github.io/files/integrales/TD4-sol.pdf)
 
 
 Toutes questions sur les exercices des TD peuvent m'être adressées directement par e-mail. J'y répondrai dans le mesure du possible.
