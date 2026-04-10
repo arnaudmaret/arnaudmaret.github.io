@@ -35,6 +35,8 @@ Il y aura deux contrôles continus de 30 minutes (sans convocation) et un examen
 
 **CM4** (24/03) : Intégrales curvilignes, circulation des champs de vecteurs et définition des intégrales surfaciques (3.2-3.3, 4.1 et 4.2 jusqu'à la Définition 4.9) [[notes]](http://arnaudmaret.github.io/files/integrales/cours4.pdf)
 
+**CM5** (14/04) : Fin des intégrales surfaciques et théorème de Green (4.2 fin et 5) [[notes]](http://arnaudmaret.github.io/files/integrales/cours4.pdf)
+
 Les notes de cours de 2025 sont disponibles en seul fichier [ici](http://arnaudmaret.github.io/files/cours.pdf).
 
 # TD
@@ -46,6 +48,8 @@ Les notes de cours de 2025 sont disponibles en seul fichier [ici](http://arnaudm
 **TD3** (17/03 et 24/03) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD3.pdf) (nouvelle version du 17/03)
 
 **TD4** (31-01/03 et 07/04) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD4.pdf) [[solution exo 3]](http://arnaudmaret.github.io/files/integrales/TD4-sol.pdf)
+
+**TD5** (14/04 et 15-28/04) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD5.pdf)
 
 
 Toutes questions sur les exercices des TD peuvent m'être adressées directement par e-mail. J'y répondrai dans le mesure du possible.
