@@ -25,7 +25,7 @@ Il y aura deux contrôles continus de 30 minutes (sans convocation) et un examen
 
 Le premier CC a eu lieu le 10 mars à 13:30 (Amphi Terre) et le deuxième CC a eu lieu le 14 avril à 13:00 (Amphi Rothé).
 
-**Mise à jour**: L'examen final aura lieu le mardi 19 mai à 14:00 à l'Amphi Terre.
+**Mise à jour**: l'examen final aura lieu le mardi 19 mai à 14:00 à l'Amphi Terre.
 
 # Cours
 
