@@ -23,7 +23,7 @@ Il y aura six séances de 2 heures de CM (le premier CM aura lie le 27/01), et d
 
 Il y aura deux contrôles continus de 30 minutes (sans convocation) et un examen final de 2 heures.
 
-**Mise à jour** : le premier CC aura lieu le 10 mars à 13:30 (Amphi Terre) et le deuxième CC aura lieu **le 14 avril à 13:00 (Amphi Rothé)**.
+Le premier CC aura lieu le 10 mars à 13:30 (Amphi Terre) et le deuxième CC aura lieu le 14 avril à 13:00 (Amphi Rothé).
 
 # Cours
 
@@ -35,9 +35,11 @@ Il y aura deux contrôles continus de 30 minutes (sans convocation) et un examen
 
 **CM4** (24/03) : Intégrales curvilignes, circulation des champs de vecteurs et définition des intégrales surfaciques (3.2-3.3, 4.1 et 4.2 jusqu'à la Définition 4.9) [[notes]](http://arnaudmaret.github.io/files/integrales/cours4.pdf)
 
-**CM5** (14/04) : Fin des intégrales surfaciques et théorème de Green (4.2 fin et 5) [[notes]](http://arnaudmaret.github.io/files/integrales/cours4.pdf)
+**CM5** (14/04) : Fin des intégrales surfaciques et théorème de Green (4.2 fin et §5) [[notes]](http://arnaudmaret.github.io/files/integrales/cours5.pdf)
 
-Les notes de cours de 2025 sont disponibles en seul fichier [ici](http://arnaudmaret.github.io/files/cours.pdf).
+**CM6** (28/04) : Théorème de Stokes (§6) [[notes]](http://arnaudmaret.github.io/files/integrales/cours6.pdf)
+
+Les notes de cours sont disponibles en seul fichier [ici](http://arnaudmaret.github.io/files/cours.pdf).
 
 # TD
 
@@ -49,7 +51,8 @@ Les notes de cours de 2025 sont disponibles en seul fichier [ici](http://arnaudm
 
 **TD4** (31-01/03 et 07/04) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD4.pdf) [[solution exo 3]](http://arnaudmaret.github.io/files/integrales/TD4-sol.pdf)
 
-**TD5** (14/04 et 15-28/04) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD5.pdf)
+**TD5** (14/04 et 15-28/04) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD5.pdf) [[solution exo 2]](http://arnaudmaret.github.io/files/integrales/TD5-sol.pdf)
 
+**TD6** (28-29/04 et 5-12/05) : [[feuille]](http://arnaudmaret.github.io/files/integrales/TD6.pdf)
 
 Toutes questions sur les exercices des TD peuvent m'être adressées directement par e-mail. J'y répondrai dans le mesure du possible.
