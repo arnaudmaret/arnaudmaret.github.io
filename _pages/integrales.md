@@ -25,6 +25,8 @@ Il y aura deux contrôles continus de 30 minutes (sans convocation) et un examen
 
 Le premier CC aura lieu le 10 mars à 13:30 (Amphi Terre) et le deuxième CC aura lieu le 14 avril à 13:00 (Amphi Rothé).
 
+**Mise à jour**: L'examen final aura lieu le mardi 19 mai à 14:00 à l'Amphi Terre.
+
 # Cours
 
 **CM1** (27/01) : Rappel sur les intégrales unidimensionnelles (1.1-1.2) [[notes]](http://arnaudmaret.github.io/files/integrales/cours1.pdf)
