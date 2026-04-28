@@ -17,12 +17,9 @@ C*-action on Higgs bundle moduli spaces detects representations arising from var
 ## Registration and official website
 [Available here](https://www.mis.mpg.de/events/series/character-varieties-under-the-lens-of-hodge-theory)
 
-## Venue
-[Max Planck Institute for Mathematics](https://www.mis.mpg.de/)
-Leipzig, Germany 
-
 ## Program
 [Timetable](http://arnaudmaret.github.io/files/cvhs-timetable.pdf)
+[Abstracts](http://arnaudmaret.github.io/files/cvhs-abstracts.pdf)
 
 ## Speakers
 
@@ -38,6 +35,10 @@ Leipzig, Germany
 - Marina Logares Jiménez (Instituto de Matemática Interdisciplinar, Madrid)
 - Claudio Meneses (Christian-Albrechts-Universität zu Kiel)
 - Ana Peón-Nieto (Universidade de Santiago de Compostela)
+
+## Venue
+[Max Planck Institute for Mathematics](https://www.mis.mpg.de/)
+Leipzig, Germany
 
 ## Organisers
 [Samuel Bronstein](https://sites.google.com/view/samuelbronstein) (MPI-MIS) <br />
