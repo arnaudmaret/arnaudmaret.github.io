@@ -18,7 +18,7 @@ C*-action on Higgs bundle moduli spaces detects representations arising from var
 [Available here](https://www.mis.mpg.de/events/series/character-varieties-under-the-lens-of-hodge-theory)
 
 ## Program
-[Timetable](http://arnaudmaret.github.io/files/cvhs-timetable.pdf)
+[Timetable](http://arnaudmaret.github.io/files/cvhs-timetable.pdf) <br />
 [Abstracts](http://arnaudmaret.github.io/files/cvhs-abstracts.pdf)
 
 ## Speakers
