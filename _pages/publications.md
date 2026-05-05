@@ -23,20 +23,26 @@ Here is a list of my *published* research papers:
 
 Here is a list of my *preprints*:
 
+8. *Invariant measures for Deroin-Tholozan representations*, with [Y. Bouilly](https://sites.google.com/site/yohannbouilly/home) <br>
+   (2026) [[arXiv:2605.02823]](https://arxiv.org/pdf/2605.02823)
+
+   *Abstract:* We classify mapping class group invariant probability measures on the character varieties of Deroin--Tholozan representations, namely the compact components of relative \mathrm{PSL}_2\mathbb{R}-character varieties. We prove that an ergodic measure is either the counting measure on a finite orbit or agrees with the Liouville measure induced by the Goldman symplectic form. Our approach is based on measure disintegration along transverse Lagrangian tori fibrations. 
+
 7. *On the symplectic geometry of branched hyperbolic surfaces in genus two*, with [G. Faraco](https://sites.google.com/view/gianluca-faraco) <br>
    (2025) [[arXiv:2511.23323]](https://arxiv.org/pdf/2511.23323)
 
    *Abstract:* We construct analogues of Fenchel--Nielsen coordinates on an open and dense subset of the space of holonomies of branched hyperbolic structures on a closed genus-2 surface. We show that these coordinates satisfy an analogue of Wolpert’s magic formula, and thus provide Darboux charts for the Goldman symplectic form. To this end, we revisit the parametrization of hyperbolic structures on a one-holed torus and introduce a simple polygonal model that makes both length and twist parameters transparent. Gluing two such polygons leads to the notion of bow-tie representations of a genus-2 surface group. We prove that bow-tie representations account for most holonomies of branched hyperbolic structures, though not all: for example, Le Fils’ pentagon representations form a real codimension-2 family of holonomies lying outside the bow-tie locus.
-   
 
 6. *Totally elliptic surface group representations* <br>
    (2024) [[arXiv:2411.19748]](https://arxiv.org/pdf/2411.19748)
 
-   *Abstract:* A surface group representation into a Lie group is called totally elliptic if every simple closed curve on the surface is mapped to an elliptic element of the target group. In this note, we characterize all totally elliptic surface group representations into \mathrm{PSL}_2\mathbb{R} and \mathrm{PSL}_2\mathbb{C} by showing that they are either representations into a compact subgroup or Deroin--Tholozan representations. 
+   *Abstract:* A surface group representation into a Lie group is called totally elliptic if every simple closed curve on the surface is mapped to an elliptic element of the target group. In this note, we characterize all totally elliptic surface group representations into \mathrm{PSL}_2\mathbb{R} and \mathrm{PSL}_2\mathbb{C} by showing that they are either representations into a compact subgroup or Deroin--Tholozan representations.
+   
 5. *Tykhyy's Conjecture on finite mapping class group orbits*, with [S. Bronstein](https://sites.google.com/view/samuelbronstein) <br>
    (2024) [[arXiv:2409.04379]](https://arxiv.org/pdf/2409.04379) [[talk]](https://arnaudmaret.com/files/talk-painlevé.pdf)
    
-   *Abstract:* We classify the finite orbits of the mapping class group action on the character variety of Deroin--Tholozan representations of punctured spheres. In particular, we prove that the action has no finite orbits if the underlying sphere has 7 punctures or more. When the sphere has six punctures, we show that there is a unique 1-parameter family of finite orbits. Our methods also recover Tykhyy's classification of finite orbits for 5-punctured spheres. The proof is inductive and uses Lisovyy--Tykhyy's classification of finite mapping class group orbits for 4-punctured spheres as the base case for the induction. Our results on Deroin--Tholozan representations cover the last missing cases to complete the proof of Tykhyy's Conjecture on finite mapping class group orbits for $\mathrm{SL}(2,\mathbb{C})$ representations of punctured spheres, after the recent work by Lam--Landesman--Litt. 
+   *Abstract:* We classify the finite orbits of the mapping class group action on the character variety of Deroin--Tholozan representations of punctured spheres. In particular, we prove that the action has no finite orbits if the underlying sphere has 7 punctures or more. When the sphere has six punctures, we show that there is a unique 1-parameter family of finite orbits. Our methods also recover Tykhyy's classification of finite orbits for 5-punctured spheres. The proof is inductive and uses Lisovyy--Tykhyy's classification of finite mapping class group orbits for 4-punctured spheres as the base case for the induction. Our results on Deroin--Tholozan representations cover the last missing cases to complete the proof of Tykhyy's Conjecture on finite mapping class group orbits for $\mathrm{SL}(2,\mathbb{C})$ representations of punctured spheres, after the recent work by Lam--Landesman--Litt.
+   
 4. *The geometry of Deroin-Tholozan representations*, with [A. Fenyes](https://ooo.fareycircles.ooo/) <br>
    (2023) [[arXiv:2312.09199]](https://arxiv.org/pdf/2312.09199)
    
