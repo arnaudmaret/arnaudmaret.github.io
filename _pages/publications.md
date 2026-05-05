@@ -7,7 +7,7 @@ author_profile: true
 
 Here is a list of my *published* research papers:
 
-3. *Mapping class group orbit closures for Deroin-Tholozan representations*, with [Y. Bouilly](https://sites.google.com/site/yohannbouilly/home), [G. Faraco](https://sites.google.com/view/gianluca-faraco) <br>
+1. *Mapping class group orbit closures for Deroin-Tholozan representations*, with [Y. Bouilly](https://sites.google.com/site/yohannbouilly/home), [G. Faraco](https://sites.google.com/view/gianluca-faraco) <br>
    **J. Mod. Dyn.** (2025). [[J. Mod. Dyn.]](https://www.aimsciences.org/article/doi/10.3934/jmd.2025019) [[arXiv:2411.10269]](https://arxiv.org/pdf/2411.10269)
    
    *Abstract:*  We prove that infinite mapping class group orbits are dense in the character variety of Deroin--Tholozan representations. In other words, the action is minimal except for finite orbits. Our arguments rely on the symplectic structure of the character variety, emphasizing this geometric perspective over its algebraic properties.
@@ -17,20 +17,19 @@ Here is a list of my *published* research papers:
    
    *Abstract:* We study a compact family of totally elliptic representations of the fundamental group of a punctured sphere into $\mathrm{PSL}(2,\mathbb{R})$ discovered by Deroin and Tholozan and named after them. We describe a polygonal model that parametrizes the relative character variety of Deroin--Tholozan representations in terms of chains of triangles in the hyperbolic plane. We extract action-angle coordinates from our polygonal model as geometric quantities associated to chains of triangles. The coordinates give an explicit isomorphism between the space of representations and the complex projective space. We prove that they are almost global Darboux coordinates for the Goldman symplectic form.
    
-1. *Ergodicity of the mapping class group action on Deroin-Tholozan representations* <br>
+3. *Ergodicity of the mapping class group action on Deroin-Tholozan representations* <br>
    **Groups Geom. Dyn.** (2022). [[Groups Geom. Dyn.]](https://ems.press/content/serial-article-files/30162) [[arXiv:2012.05775]](https://arxiv.org/pdf/2012.05775.pdf)
    
    *Abstract:* This note investigates the dynamics of the mapping class group action on the character variety of super-maximal representations of the fundamental group of a punctured sphere into $\mathrm{PSL}(2,\mathbb{R})$, discovered by Deroin and Tholozan. We apply symplectic methods developed by Goldman and Xia to prove that the action is ergodic. 
 
-
 Here is a list of my *preprints*:
 
-8. *Invariant measures for Deroin-Tholozan representations*, with [Y. Bouilly](https://sites.google.com/site/yohannbouilly/home) <br>
+4. *Invariant measures for Deroin-Tholozan representations*, with [Y. Bouilly](https://sites.google.com/site/yohannbouilly/home) <br>
    (2026) [[arXiv:2605.02823]](https://arxiv.org/pdf/2605.02823)
 
    *Abstract:* We classify mapping class group invariant probability measures on the character varieties of Deroin--Tholozan representations, namely the compact components of relative \mathrm{PSL}_2\mathbb{R}-character varieties. We prove that an ergodic measure is either the counting measure on a finite orbit or agrees with the Liouville measure induced by the Goldman symplectic form. Our approach is based on measure disintegration along transverse Lagrangian tori fibrations. 
 
-7. *On the symplectic geometry of branched hyperbolic surfaces in genus two*, with [G. Faraco](https://sites.google.com/view/gianluca-faraco) <br>
+5. *On the symplectic geometry of branched hyperbolic surfaces in genus two*, with [G. Faraco](https://sites.google.com/view/gianluca-faraco) <br>
    (2025) [[arXiv:2511.23323]](https://arxiv.org/pdf/2511.23323)
 
    *Abstract:* We construct analogues of Fenchel--Nielsen coordinates on an open and dense subset of the space of holonomies of branched hyperbolic structures on a closed genus-2 surface. We show that these coordinates satisfy an analogue of Wolpert’s magic formula, and thus provide Darboux charts for the Goldman symplectic form. To this end, we revisit the parametrization of hyperbolic structures on a one-holed torus and introduce a simple polygonal model that makes both length and twist parameters transparent. Gluing two such polygons leads to the notion of bow-tie representations of a genus-2 surface group. We prove that bow-tie representations account for most holonomies of branched hyperbolic structures, though not all: for example, Le Fils’ pentagon representations form a real codimension-2 family of holonomies lying outside the bow-tie locus.
@@ -40,12 +39,12 @@ Here is a list of my *preprints*:
 
    *Abstract:* A surface group representation into a Lie group is called totally elliptic if every simple closed curve on the surface is mapped to an elliptic element of the target group. In this note, we characterize all totally elliptic surface group representations into \mathrm{PSL}_2\mathbb{R} and \mathrm{PSL}_2\mathbb{C} by showing that they are either representations into a compact subgroup or Deroin--Tholozan representations.
    
-5. *Tykhyy's Conjecture on finite mapping class group orbits*, with [S. Bronstein](https://sites.google.com/view/samuelbronstein) <br>
+7. *Tykhyy's Conjecture on finite mapping class group orbits*, with [S. Bronstein](https://sites.google.com/view/samuelbronstein) <br>
    (2024) [[arXiv:2409.04379]](https://arxiv.org/pdf/2409.04379) [[talk]](https://arnaudmaret.com/files/talk-painlevé.pdf)
    
    *Abstract:* We classify the finite orbits of the mapping class group action on the character variety of Deroin--Tholozan representations of punctured spheres. In particular, we prove that the action has no finite orbits if the underlying sphere has 7 punctures or more. When the sphere has six punctures, we show that there is a unique 1-parameter family of finite orbits. Our methods also recover Tykhyy's classification of finite orbits for 5-punctured spheres. The proof is inductive and uses Lisovyy--Tykhyy's classification of finite mapping class group orbits for 4-punctured spheres as the base case for the induction. Our results on Deroin--Tholozan representations cover the last missing cases to complete the proof of Tykhyy's Conjecture on finite mapping class group orbits for $\mathrm{SL}(2,\mathbb{C})$ representations of punctured spheres, after the recent work by Lam--Landesman--Litt.
    
-4. *The geometry of Deroin-Tholozan representations*, with [A. Fenyes](https://ooo.fareycircles.ooo/) <br>
+8. *The geometry of Deroin-Tholozan representations*, with [A. Fenyes](https://ooo.fareycircles.ooo/) <br>
    (2023) [[arXiv:2312.09199]](https://arxiv.org/pdf/2312.09199)
    
    *Abstract:* We present a way to build hyperbolic spheres with conical singularities by gluing together simple building blocks. Our construction provides good control over the holonomy of the resulting hyperbolic cone sphere. In particular, it can be used to realize any Deroin--Tholozan (DT) representation as the holonomy of a hyperbolic cone sphere. Our construction is inspired by the correspondence between DT representations and chains of triangles in the hyperbolic plane. It gives a geometric interpretation of certain action-angle coordinates on the space of DT representations, which come from this correspondence.
