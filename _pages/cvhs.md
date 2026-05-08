@@ -36,6 +36,8 @@ C*-action on Higgs bundle moduli spaces detects representations arising from var
 - Claudio Meneses (Christian-Albrechts-Universität zu Kiel)
 - Ana Peón-Nieto (Universidade de Santiago de Compostela)
 
+![Group picture](http://arnaudmaret.github.io/files/group-picture-cvhs.png)
+
 ## Venue
 [Max Planck Institute for Mathematics](https://www.mis.mpg.de/)
 Leipzig, Germany
