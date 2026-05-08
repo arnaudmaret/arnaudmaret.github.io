@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-![Poster](http://arnaudmaret.github.io/files/poster-cvhs.png)
+![Poster](http://arnaudmaret.github.io/files/cvhs/poster-cvhs.png)
 
 The aim of the workshop is to bring together junior and senior researchers in character varieties and Hodge theory, and explore the connections between these two subjects. The workshop will consists of 7 introductory talks of 2.5 hours, as well as 4 research talks of 1 hour. 
 
@@ -18,8 +18,8 @@ C*-action on Higgs bundle moduli spaces detects representations arising from var
 [Available here](https://www.mis.mpg.de/events/series/character-varieties-under-the-lens-of-hodge-theory)
 
 ## Program
-[Timetable](http://arnaudmaret.github.io/files/cvhs-timetable.pdf) <br />
-[Abstracts](http://arnaudmaret.github.io/files/cvhs-abstracts.pdf)
+[Timetable](http://arnaudmaret.github.io/files/cvhs/cvhs-timetable.pdf) <br />
+[Abstracts](http://arnaudmaret.github.io/files/cvhs/cvhs-abstracts.pdf)
 
 ## Speakers
 
@@ -36,7 +36,7 @@ C*-action on Higgs bundle moduli spaces detects representations arising from var
 - Claudio Meneses (Christian-Albrechts-Universität zu Kiel)
 - Ana Peón-Nieto (Universidade de Santiago de Compostela)
 
-![Group picture](http://arnaudmaret.github.io/files/group-picture-cvhs.png)
+![Group picture](http://arnaudmaret.github.io/files/cvhs/group-picture-cvhs.jpg)
 
 ## Venue
 [Max Planck Institute for Mathematics](https://www.mis.mpg.de/)
