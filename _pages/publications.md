@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 Here is a list of my *published* research papers:
+
 4\. *Totally elliptic surface group representations* <br>
     To appear in **Bull. Lond. Math. Soc.** (2026). [[Bull. Lond. Math. Soc.]]() [[arXiv:2411.19748]](https://arxiv.org/pdf/2411.19748)
 
