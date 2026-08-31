@@ -16,5 +16,5 @@ I previously held two postdoc positions: one under the supervision of [Nalini An
 I'm mostly working in low dimensional geometry and topology, surface groups representations and character varieties,
 (higher) Teichmüller Theory, symplectic geometry, (complex) hyperbolic geometry, mapping class groups and dynamics on character varieties.
 
-**Quick links:** [[notes on character varieties]](https://arnaudmaret.com/files/character-varieties.pdf)
+**Quick links:** [[CV]](http://arnaudmaret.github.io/files/cv.pdf) [[notes on character varieties]](https://arnaudmaret.com/files/character-varieties.pdf)
 
