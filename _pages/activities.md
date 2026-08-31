@@ -5,6 +5,11 @@ permalink: /activities/
 author_profile: true
 ---
 
+## Upcoming talks and conferences
+  - Oct 13-16: I'm giving a talk in Nice at the [ANR meeting](https://isomodyn.pages.math.cnrs.fr/) on isomonodromic deformations and modular dynamics.
+  - Dec 7-11: I'm giving a talk at the surface group representations [thematic programme](https://lmsi.org/programmes/thematic-programme-on-surface-analytics-group/surface-group-representations) at the Lodha Mathematical Sciences Institute in Mumbai, India.
+  - Feb 22-26: I'm giving a talk at the [conference](https://conferences.cirm-math.fr/3726.html) "Topology and Number theory" taking place at CIRM in Marseille.
+
 ## Selected talks
   - **Hyperbolic triangle chains and finite mapping class group orbits**. Painlevé Seminar (online) [[talk]](http://arnaudmaret.github.io/files/talk-painlevé.pdf)
   - **Complex Projective Spaces Via Surface Groups Representations**. Symplectic Zoominar, Institute for advanced studies [[video]](https://www.youtube.com/watch?v=Kfv6A3Av9Cg&t=572s).
